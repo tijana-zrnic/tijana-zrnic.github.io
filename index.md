@@ -40,7 +40,7 @@ _Algorithmic Collective Action in Machine Learning_\
 _International Conference on Machine Learning (ICML) 2023_ [arxiv](http://arxiv.org/abs/2302.04262) [talk](https://www.youtube.com/watch?v=E9aa6BrrJvA)
 
 _Valid Inference after Causal Discovery_\
-P. Gradu*, T. Zrnic*, Y. Wang, M. I. Jordan\
+P. Gradu\*, T. Zrnic\*, Y. Wang, M. I. Jordan\
 _Preprint_ [arxiv](https://arxiv.org/abs/2208.05949)
 
 _A Note on Zeroth-Order Optimization on the Simplex_\
@@ -53,11 +53,11 @@ _International Conference on Machine Learning (ICML) 2022_ [ICML](https://procee
 _Presented at the Symposium on Foundations of Responsible Computing (FORC) 2022_
 
 _Private Prediction Sets_\
-A. N. Angelopoulos*, S. Bates*, T. Zrnic*, M. I. Jordan\
+A. N. Angelopoulos\*, S. Bates\*, T. Zrnic\*, M. I. Jordan\
 _Harvard Data Science Review (HDSR) 2022_ [HDSR](https://hdsr.mitpress.mit.edu/pub/deziirvg/release/1?readingCollection=713cbc90) [arxiv](https://arxiv.org/abs/2102.06202) [code](https://github.com/aangelopoulos/private_prediction_sets)
 
 _Who Leads and Who Follows in Strategic Classification?_\
-T. Zrnic*, E. Mazumdar*, S. S. Sastry, M. I. Jordan\
+T. Zrnic\*, E. Mazumdar\*, S. S. Sastry, M. I. Jordan\
 _Conference on Neural Information Processing Systems (NeurIPS) 2021_ [NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/812214fb8e7066bfa6e32c626c2c688b-Abstract.html)  [arxiv](https://arxiv.org/abs/2106.12529)
 
 _Individual Privacy Accounting via a Rényi Filter_\
@@ -66,6 +66,39 @@ _Conference on Neural Information Processing Systems (NeurIPS) 2021_ [NeurIPS](h
 _Presented at the Symposium on Foundations of Responsible Computing (FORC) 2021_
 
 _Outside the Echo Chamber: Optimizing the Performative Risk_\
-J. Miller*, J. C. Perdomo*, T. Zrnic*\
+J. Miller\*, J. C. Perdomo\*, T. Zrnic\*\
 _International Conference on Machine Learning (ICML) 2021_ [ICML](https://proceedings.mlr.press/v139/miller21a.html) [arxiv](https://arxiv.org/abs/2102.08570) [blog post](https://toc4fairness.org/self-fulfilling-and-self-negating-predictions-a-short-tale-of-performativity-in-machine-learning/)\
 _Presented at the Symposium on Foundations of Responsible Computing (FORC) 2021_
+
+_Asynchronous Online Testing of Multiple Hypotheses_\
+T. Zrnic, A. Ramdas, M. I. Jordan\
+_Journal of Machine Learning Research (JMLR) 2021_ [JMLR](https://jmlr.org/papers/v22/19-910.html) [arxiv](https://arxiv.org/abs/1812.05068) [blog post](https://bair.berkeley.edu/blog/2019/02/15/false-discoveries/) [code](https://github.com/tijana-zrnic/async-online-FDR-code) [online FDR package](https://bioconductor.org/packages/devel/bioc/html/onlineFDR.html)\
+_Presented at the International Conference on Multiple Comparisons Procedures (MCP) 2019_
+
+_Stochastic Optimization for Performative Prediction_\
+C. Mendler-Dünner\*, J. C. Perdomo\*, T. Zrnic\*, M. Hardt\
+_Conference on Neural Information Processing Systems (NeurIPS) 2020_ [NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/33e75ff09dd601bbe69f351039152189-Abstract.html) [arxiv](https://arxiv.org/abs/2006.06887) [blog post](https://toc4fairness.org/self-fulfilling-and-self-negating-predictions-a-short-tale-of-performativity-in-machine-learning/) [code](https://github.com/zykls/performative-prediction)
+
+_Performative Prediction_\
+J. C. Perdomo\*, T. Zrnic\*, C. Mendler-Dünner, M. Hardt\
+_International Conference on Machine Learning (ICML) 2020_ [ICML](http://proceedings.mlr.press/v119/perdomo20a.html) [arxiv](https://arxiv.org/abs/2002.06673) [blog post](https://toc4fairness.org/self-fulfilling-and-self-negating-predictions-a-short-tale-of-performativity-in-machine-learning/) [talk](https://slideslive.com/38927540/performative-prediction?ref=speaker-17832-latest) [code](https://github.com/zykls/performative-prediction)
+
+_The Power of Batching in Multiple Hypothesis Testing_\
+T. Zrnic, D. L. Jiang, A. Ramdas, M. I. Jordan\
+_International Conference on Artificial Intelligence and Statistics (AISTATS) 2020_ [AISTATS](http://proceedings.mlr.press/v108/zrnic20a.html) [arxiv](https://arxiv.org/abs/1910.04968) [talk](https://slideslive.com/38930298/the-power-of-batching-in-multiple-hypothesis-testing?ref=speaker-17832-latest) [code](https://github.com/jiangdaniel/BatchBH)
+
+_Natural Analysts in Adaptive Data Analysis_\
+T. Zrnic, M. Hardt\
+_International Conference on Machine Learning (ICML) 2019_ [ICML](http://proceedings.mlr.press/v97/zrnic19a.html) [arxiv](https://arxiv.org/abs/1901.11143) [talk](https://slideslive.com/38917650/statistical-learning-theory?ref=speaker-17832-latest)
+
+_SAFFRON: an Adaptive Algorithm for Online Control of the False Discovery Rate_\
+A. Ramdas, T. Zrnic, M. J. Wainwright, M. I. Jordan\
+_International Conference on Machine Learning (ICML) 2018_ [ICML](http://proceedings.mlr.press/v80/ramdas18a.html) [arxiv](https://arxiv.org/abs/1802.09098) [code](https://github.com/tijana-zrnic/SAFFRONcode)
+
+_Tensor-Based Crowdsourced Clustering via Triangle Queries_\
+R. K. Vinayak, T. Zrnic, B. Hassibi\
+_IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2017_ [IEEE](https://ramyakv.github.io/TensorEmbeddingTriangleQuery.pdf)
+
+_Improving Location of Recording Classification Using Electric Network Frequency (ENF) Analysis_\
+Z. Saric, A. Zunic, T. Zrnic, M. Knezevic, D. Despotovic, T. Delic\
+_IEEE International Symposium on Intelligent Systems and Informatics (SISY) 2016_ [IEEE](https://ieeexplore.ieee.org/abstract/document/7601517)
