@@ -10,8 +10,17 @@ I recently got my PhD in Electrical Engineering and Computer Sciences at UC Berk
 
 ## Contact
 
-email:  firstname.lastname@stanford.edu
+email:  "firstname"."lastname"@stanford.edu\
 office: 116 Sequoia Hall 
+
+## Publications and preprints
+
+(* denotes equal contribution, α-β denotes alphabetical ordering)
+
+
+_Plug-in Performative Optimization_\
+L. Lin, T. Zrnic\
+_Preprint_ [arxiv](https://arxiv.org/abs/2305.18728)
 
 ### Header 3
 
