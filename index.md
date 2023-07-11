@@ -38,3 +38,34 @@ _Annals of Statistics (AoS) 2023+_ [arxiv](https://arxiv.org/abs/2011.09462) [ta
 _Algorithmic Collective Action in Machine Learning_\
 (α-β) M. Hardt, E. Mazumdar, C. Mendler-Dünner, T. Zrnic\
 _International Conference on Machine Learning (ICML) 2023_ [arxiv](http://arxiv.org/abs/2302.04262) [talk](https://www.youtube.com/watch?v=E9aa6BrrJvA)
+
+_Valid Inference after Causal Discovery_\
+P. Gradu*, T. Zrnic*, Y. Wang, M. I. Jordan\
+_Preprint_ [arxiv](https://arxiv.org/abs/2208.05949)
+
+_A Note on Zeroth-Order Optimization on the Simplex_\
+T. Zrnic, E. Mazumdar\
+_Note_ [arxiv](https://arxiv.org/abs/2208.01185)
+
+_Regret Minimization with Performative Feedback_\
+M. Jagadeesan, T. Zrnic, C. Mendler-Dünner\
+_International Conference on Machine Learning (ICML) 2022_ [ICML](https://proceedings.mlr.press/v162/jagadeesan22a.html) [arxiv](https://arxiv.org/abs/2202.00628)\
+_Presented at the Symposium on Foundations of Responsible Computing (FORC) 2022_
+
+_Private Prediction Sets_\
+A. N. Angelopoulos*, S. Bates*, T. Zrnic*, M. I. Jordan\
+_Harvard Data Science Review (HDSR) 2022_ [HDSR](https://hdsr.mitpress.mit.edu/pub/deziirvg/release/1?readingCollection=713cbc90) [arxiv](https://arxiv.org/abs/2102.06202) [code](https://github.com/aangelopoulos/private_prediction_sets)
+
+_Who Leads and Who Follows in Strategic Classification?_\
+T. Zrnic*, E. Mazumdar*, S. S. Sastry, M. I. Jordan\
+_Conference on Neural Information Processing Systems (NeurIPS) 2021_ [NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/812214fb8e7066bfa6e32c626c2c688b-Abstract.html)  [arxiv](https://arxiv.org/abs/2106.12529)
+
+_Individual Privacy Accounting via a Rényi Filter_\
+(α-β) V. Feldman, T. Zrnic\
+_Conference on Neural Information Processing Systems (NeurIPS) 2021_ [NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/ec7f346604f518906d35ef0492709f78-Abstract.html) [arxiv](https://arxiv.org/abs/2008.11193) [short talk](https://www.youtube.com/watch?v=LGTBO1tSuUM) [long talk](https://www.youtube.com/watch?v=ciqats3QPiw)\
+_Presented at the Symposium on Foundations of Responsible Computing (FORC) 2021_
+
+_Outside the Echo Chamber: Optimizing the Performative Risk_\
+J. Miller*, J. C. Perdomo*, T. Zrnic*\
+_International Conference on Machine Learning (ICML) 2021_ [ICML](https://proceedings.mlr.press/v139/miller21a.html) [arxiv](https://arxiv.org/abs/2102.08570) [blog post](https://toc4fairness.org/self-fulfilling-and-self-negating-predictions-a-short-tale-of-performativity-in-machine-learning/)\
+_Presented at the Symposium on Foundations of Responsible Computing (FORC) 2021_
