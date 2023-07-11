@@ -2,23 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I’m a Data Science Postdoctoral Fellow at Stanford University, where I'm hosted by Emmanuel Candès in the Department of Statistics.
 
-[Link to another page](./another-page.html).
+I recently got my PhD in Electrical Engineering and Computer Sciences at UC Berkeley, where I was advised by Moritz Hardt and Michael Jordan. I spent the summer of 2020 interning at Apple AI Research, hosted by Vitaly Feldman. My PhD research was generously supported by an Apple PhD Fellowship in AI/ML. Before starting my PhD, I completed my BEng in Electrical and Computer Engineering at the University of Novi Sad in Serbia. My undergraduate advisor was Dragana Bajovic. During undergrad I spent a summer at Caltech, working with Babak Hassibi.
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## Contact
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+email:  firstname.lastname@stanford.edu
+office: 116 Sequoia Hall 
 
 ### Header 3
 
