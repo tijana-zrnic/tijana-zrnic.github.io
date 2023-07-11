@@ -22,104 +22,19 @@ _Plug-in Performative Optimization_\
 L. Lin, T. Zrnic\
 _Preprint_ [arxiv](https://arxiv.org/abs/2305.18728)
 
-### Header 3
+_Prediction-Powered Inference_\
+(α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
+_Preprint_ [arxiv](https://arxiv.org/abs/2301.09633) [code](https://github.com/aangelopoulos/prediction-powered-inference)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+_Locally Simultaneous Inference_\
+T. Zrnic, W. Fithian\
+_Preprint_ [arxiv](https://arxiv.org/abs/2212.09009) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)\
+_Presented at the International Conference on Multiple Comparisons Procedures (MCP) 2022_
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+_Post-Selection Inference via Algorithmic Stability_\
+T. Zrnic, M. I. Jordan\
+_Annals of Statistics (AoS) 2023+_ [arxiv](https://arxiv.org/abs/2011.09462) [talk](https://drive.google.com/file/d/1eMk98D--tXTCpTcaUeUa4vU7ibGAou57/view)
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+_Algorithmic Collective Action in Machine Learning_\
+(α-β) M. Hardt, E. Mazumdar, C. Mendler-Dünner, T. Zrnic\
+_International Conference on Machine Learning (ICML) 2023_ [arxiv](http://arxiv.org/abs/2302.04262) [talk](https://www.youtube.com/watch?v=E9aa6BrrJvA)
