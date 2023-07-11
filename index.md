@@ -102,3 +102,8 @@ _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASS
 _Improving Location of Recording Classification Using Electric Network Frequency (ENF) Analysis_\
 Z. Saric, A. Zunic, T. Zrnic, M. Knezevic, D. Despotovic, T. Delic\
 _IEEE International Symposium on Intelligent Systems and Informatics (SISY) 2016_ [IEEE](https://ieeexplore.ieee.org/abstract/document/7601517)
+
+## PhD thesis
+_Prediction and Statistical Inference in Feedback Loops_\
+T. Zrnic\
+[UC Berkeley EECS](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-65.pdf)
