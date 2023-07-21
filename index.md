@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I’m a Data Science Postdoctoral Fellow at Stanford University, where I'm hosted by Emmanuel Candès in the Statistics Department.
+I’m a Data Science Postdoctoral Fellow at Stanford University, where I'm hosted by Emmanuel Candès in Statistics.
 
-In 2023 I got my PhD in Electrical Engineering and Computer Sciences at UC Berkeley, where I was advised by Moritz Hardt and Michael Jordan. I spent the summer of 2020 interning at Apple AI Research, hosted by Vitaly Feldman. My PhD research was generously supported by an Apple PhD Fellowship in AI/ML. Before starting my PhD, I completed my BEng in Electrical and Computer Engineering at the University of Novi Sad in Serbia. My undergraduate advisor was Dragana Bajovic. During undergrad I spent a summer at Caltech, working with Babak Hassibi.
+I obtained my PhD in Electrical Engineering and Computer Sciences at UC Berkeley in 2023, where I was advised by Moritz Hardt and Michael Jordan. I spent the summer of 2020 interning at Apple AI Research, hosted by Vitaly Feldman. My PhD research was generously supported by an Apple PhD Fellowship in AI/ML. Before starting my PhD, I completed my BEng in Electrical and Computer Engineering at the University of Novi Sad in Serbia, where I was advised by Dragana Bajovic. During undergrad I spent a summer at Caltech, working with Babak Hassibi.
 
 
 
