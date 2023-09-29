@@ -17,6 +17,9 @@ office: 116 Sequoia Hall
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
 
+_Cross-Prediction-Powered Inference_\
+T. Zrnic, E. J. Candès\
+_Preprint_ [arxiv](http://arxiv.org/abs/2309.16598)
 
 _Plug-in Performative Optimization_\
 L. Lin, T. Zrnic\
