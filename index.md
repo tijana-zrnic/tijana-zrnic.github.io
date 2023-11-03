@@ -17,9 +17,13 @@ office: 116 Sequoia Hall
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
 
+_PPI++: Efficient Prediction-Powered Inference_\
+(α-β) A. N. Angelopoulos, J. C. Duchi, T. Zrnic\
+_Preprint_ [arxiv](https://arxiv.org/abs/2311.01453) [code](https://github.com/aangelopoulos/ppi_py/tree/ppi++)
+
 _Cross-Prediction-Powered Inference_\
 T. Zrnic, E. J. Candès\
-_Preprint_ [arxiv](http://arxiv.org/abs/2309.16598)
+_Preprint_ [arxiv](http://arxiv.org/abs/2309.16598) [code](https://github.com/tijana-zrnic/cross-ppi)
 
 _Plug-in Performative Optimization_\
 L. Lin, T. Zrnic\
@@ -27,11 +31,11 @@ _Preprint_ [arxiv](https://arxiv.org/abs/2305.18728)
 
 _Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
-_Preprint_ [arxiv](https://arxiv.org/abs/2301.09633) [code](https://github.com/aangelopoulos/prediction-powered-inference)
+_Preprint_ [arxiv](https://arxiv.org/abs/2301.09633) [package](https://github.com/aangelopoulos/ppi_py)
 
 _Locally Simultaneous Inference_\
 T. Zrnic, W. Fithian\
-_Preprint_ [arxiv](https://arxiv.org/abs/2212.09009) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)\
+_Preprint_ [arxiv](https://arxiv.org/abs/2212.09009) [code](https://github.com/tijana-zrnic/locally-simultaneous-inference) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)\
 _Presented at the International Conference on Multiple Comparisons Procedures (MCP) 2022_
 
 _Post-Selection Inference via Algorithmic Stability_\
