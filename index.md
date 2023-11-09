@@ -17,6 +17,10 @@ office: 116 Sequoia Hall
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
 
+_Prediction-Powered Inference_\
+(α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
+_Science_ [Science](https://www.science.org/doi/full/10.1126/science.adi6000) [arxiv](https://arxiv.org/abs/2301.09633) [package](https://github.com/aangelopoulos/ppi_py)
+
 _PPI++: Efficient Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, J. C. Duchi, T. Zrnic\
 _Preprint_ [arxiv](https://arxiv.org/abs/2311.01453) [code](https://github.com/aangelopoulos/ppi_py/tree/ppi++)
@@ -29,10 +33,6 @@ _Plug-in Performative Optimization_\
 L. Lin, T. Zrnic\
 _Preprint_ [arxiv](https://arxiv.org/abs/2305.18728)
 
-_Prediction-Powered Inference_\
-(α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
-_Preprint_ [arxiv](https://arxiv.org/abs/2301.09633) [package](https://github.com/aangelopoulos/ppi_py)
-
 _Locally Simultaneous Inference_\
 T. Zrnic, W. Fithian\
 _Preprint_ [arxiv](https://arxiv.org/abs/2212.09009) [code](https://github.com/tijana-zrnic/locally-simultaneous-inference) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)\
@@ -40,11 +40,11 @@ _Presented at the International Conference on Multiple Comparisons Procedures (M
 
 _Post-Selection Inference via Algorithmic Stability_\
 T. Zrnic, M. I. Jordan\
-_Annals of Statistics (AoS) 2023+_ [arxiv](https://arxiv.org/abs/2011.09462) [talk](https://drive.google.com/file/d/1eMk98D--tXTCpTcaUeUa4vU7ibGAou57/view)
+_Annals of Statistics (AoS) 2023_ [AoS](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-4/Post-selection-inference-via-algorithmic-stability/10.1214/23-AOS2303.full) [arxiv](https://arxiv.org/abs/2011.09462) [talk](https://drive.google.com/file/d/1eMk98D--tXTCpTcaUeUa4vU7ibGAou57/view)
 
 _Algorithmic Collective Action in Machine Learning_\
 (α-β) M. Hardt, E. Mazumdar, C. Mendler-Dünner, T. Zrnic\
-_International Conference on Machine Learning (ICML) 2023_ [arxiv](http://arxiv.org/abs/2302.04262) [talk](https://www.youtube.com/watch?v=E9aa6BrrJvA)
+_International Conference on Machine Learning (ICML) 2023_ [ICML](https://proceedings.mlr.press/v202/hardt23a.html) [arxiv](http://arxiv.org/abs/2302.04262) [talk](https://www.youtube.com/watch?v=E9aa6BrrJvA)
 
 _Valid Inference after Causal Discovery_\
 P. Gradu\*, T. Zrnic\*, Y. Wang, M. I. Jordan\
