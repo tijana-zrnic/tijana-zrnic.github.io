@@ -19,7 +19,7 @@ office: 116 Sequoia Hall
 
 _Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
-_Science_ [Science](https://www.science.org/doi/full/10.1126/science.adi6000) [arxiv](https://arxiv.org/abs/2301.09633) [package](https://github.com/aangelopoulos/ppi_py)
+_Science 2023_ [Science](https://www.science.org/doi/full/10.1126/science.adi6000) [arxiv](https://arxiv.org/abs/2301.09633) [package](https://github.com/aangelopoulos/ppi_py)
 
 _PPI++: Efficient Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, J. C. Duchi, T. Zrnic\
