@@ -35,7 +35,7 @@ _Preprint_ [arxiv](https://arxiv.org/abs/2305.18728)
 
 _Locally Simultaneous Inference_\
 T. Zrnic, W. Fithian\
-_Preprint_ [arxiv](https://arxiv.org/abs/2212.09009) [code](https://github.com/tijana-zrnic/locally-simultaneous-inference) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)\
+_Under major revision at Annals of Statistics (AoS)_ [arxiv](https://arxiv.org/abs/2212.09009) [code](https://github.com/tijana-zrnic/locally-simultaneous-inference) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)\
 _Presented at the International Conference on Multiple Comparisons Procedures (MCP) 2022_
 
 _Post-Selection Inference via Algorithmic Stability_\
