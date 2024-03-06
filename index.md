@@ -19,6 +19,10 @@ office: 116 Sequoia Hall
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
 
+_Active Statistical Inference_\
+T. Zrnic, E. J. Candès\
+_Preprint_ [arxiv](https://arxiv.org/abs/2403.03208) [code](https://github.com/tijana-zrnic/active-inference)
+
 _Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
 _Science 2023_ [Science](https://www.science.org/doi/full/10.1126/science.adi6000) [arxiv](https://arxiv.org/abs/2301.09633) [package](https://github.com/aangelopoulos/ppi_py)
