@@ -19,6 +19,10 @@ office: 116 Sequoia Hall
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
 
+_Cross-Prediction-Powered Inference_\
+T. Zrnic, E. J. Candès\
+_Proceedings of the National Academy of Sciences (PNAS)_ [PNAS](www.pnas.org/doi/10.1073/pnas.2322083121) [arxiv](http://arxiv.org/abs/2309.16598) [code](https://github.com/tijana-zrnic/cross-ppi)
+
 _Active Statistical Inference_\
 T. Zrnic, E. J. Candès\
 _Preprint_ [arxiv](https://arxiv.org/abs/2403.03208) [code](https://github.com/tijana-zrnic/active-inference)
@@ -30,10 +34,6 @@ _Science 2023_ [Science](https://www.science.org/doi/full/10.1126/science.adi600
 _PPI++: Efficient Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, J. C. Duchi, T. Zrnic\
 _Preprint_ [arxiv](https://arxiv.org/abs/2311.01453) [code](https://github.com/aangelopoulos/ppi_py/tree/ppi++)
-
-_Cross-Prediction-Powered Inference_\
-T. Zrnic, E. J. Candès\
-_Preprint_ [arxiv](http://arxiv.org/abs/2309.16598) [code](https://github.com/tijana-zrnic/cross-ppi)
 
 _Plug-in Performative Optimization_\
 L. Lin, T. Zrnic\
