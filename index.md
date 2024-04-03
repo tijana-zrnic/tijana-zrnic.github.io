@@ -21,7 +21,7 @@ office: 116 Sequoia Hall
 
 _Cross-Prediction-Powered Inference_\
 T. Zrnic, E. J. Candès\
-_Proceedings of the National Academy of Sciences (PNAS) 2024_ [PNAS](www.pnas.org/doi/10.1073/pnas.2322083121) [arxiv](http://arxiv.org/abs/2309.16598) [code](https://github.com/tijana-zrnic/cross-ppi)
+_Proceedings of the National Academy of Sciences (PNAS) 2024_ [PNAS](https://pnas.org/doi/10.1073/pnas.2322083121) [arxiv](http://arxiv.org/abs/2309.16598) [code](https://github.com/tijana-zrnic/cross-ppi)
 
 _Active Statistical Inference_\
 T. Zrnic, E. J. Candès\
