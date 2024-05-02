@@ -19,6 +19,14 @@ office: 116 Sequoia Hall
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
 
+_Active Statistical Inference_\
+T. Zrnic, E. J. Candès\
+_International Conference on Machine Learning (ICML) 2024_ [arxiv](https://arxiv.org/abs/2403.03208) [code](https://github.com/tijana-zrnic/active-inference)
+
+_Plug-in Performative Optimization_\
+L. Lin, T. Zrnic\
+_International Conference on Machine Learning (ICML) 2024_ [arxiv](https://arxiv.org/abs/2305.18728)
+
 _Locally Simultaneous Inference_\
 T. Zrnic, W. Fithian\
 _Annals of Statistics (AoS) 2024+_ [arxiv](https://arxiv.org/abs/2212.09009) [code](https://github.com/tijana-zrnic/locally-simultaneous-inference) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)\
@@ -28,21 +36,13 @@ _Cross-Prediction-Powered Inference_\
 T. Zrnic, E. J. Candès\
 _Proceedings of the National Academy of Sciences (PNAS) 2024_ [PNAS](https://pnas.org/doi/10.1073/pnas.2322083121) [arxiv](http://arxiv.org/abs/2309.16598) [code](https://github.com/tijana-zrnic/cross-ppi)
 
-_Active Statistical Inference_\
-T. Zrnic, E. J. Candès\
-_Preprint_ [arxiv](https://arxiv.org/abs/2403.03208) [code](https://github.com/tijana-zrnic/active-inference)
-
-_Prediction-Powered Inference_\
-(α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
-_Science 2023_ [Science](https://www.science.org/doi/full/10.1126/science.adi6000) [arxiv](https://arxiv.org/abs/2301.09633) [package](https://github.com/aangelopoulos/ppi_py)
-
 _PPI++: Efficient Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, J. C. Duchi, T. Zrnic\
 _Preprint_ [arxiv](https://arxiv.org/abs/2311.01453) [code](https://github.com/aangelopoulos/ppi_py/tree/ppi++)
 
-_Plug-in Performative Optimization_\
-L. Lin, T. Zrnic\
-_Preprint_ [arxiv](https://arxiv.org/abs/2305.18728)
+_Prediction-Powered Inference_\
+(α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
+_Science 2023_ [Science](https://www.science.org/doi/full/10.1126/science.adi6000) [arxiv](https://arxiv.org/abs/2301.09633) [package](https://github.com/aangelopoulos/ppi_py)
 
 _Post-Selection Inference via Algorithmic Stability_\
 T. Zrnic, M. I. Jordan\
