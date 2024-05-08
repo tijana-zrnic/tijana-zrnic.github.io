@@ -29,8 +29,7 @@ _International Conference on Machine Learning (ICML) 2024_ [arxiv](https://arxiv
 
 _Locally Simultaneous Inference_\
 T. Zrnic, W. Fithian\
-_Annals of Statistics (AoS) 2024+_ [arxiv](https://arxiv.org/abs/2212.09009) [code](https://github.com/tijana-zrnic/locally-simultaneous-inference) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)\
-_Presented at the International Conference on Multiple Comparisons Procedures (MCP) 2022_
+_Annals of Statistics (AoS) 2024+_ [arxiv](https://arxiv.org/abs/2212.09009) [code](https://github.com/tijana-zrnic/locally-simultaneous-inference) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)
 
 _Cross-Prediction-Powered Inference_\
 T. Zrnic, E. J. Candès\
@@ -85,8 +84,7 @@ _Presented at the Symposium on Foundations of Responsible Computing (FORC) 2021_
 
 _Asynchronous Online Testing of Multiple Hypotheses_\
 T. Zrnic, A. Ramdas, M. I. Jordan\
-_Journal of Machine Learning Research (JMLR) 2021_ [JMLR](https://jmlr.org/papers/v22/19-910.html) [arxiv](https://arxiv.org/abs/1812.05068) [blog post](https://bair.berkeley.edu/blog/2019/02/15/false-discoveries/) [code](https://github.com/tijana-zrnic/async-online-FDR-code) [online FDR package](https://bioconductor.org/packages/devel/bioc/html/onlineFDR.html)\
-_Presented at the International Conference on Multiple Comparisons Procedures (MCP) 2019_
+_Journal of Machine Learning Research (JMLR) 2021_ [JMLR](https://jmlr.org/papers/v22/19-910.html) [arxiv](https://arxiv.org/abs/1812.05068) [blog post](https://bair.berkeley.edu/blog/2019/02/15/false-discoveries/) [code](https://github.com/tijana-zrnic/async-online-FDR-code) [online FDR package](https://bioconductor.org/packages/devel/bioc/html/onlineFDR.html)
 
 _Stochastic Optimization for Performative Prediction_\
 C. Mendler-Dünner\*, J. C. Perdomo\*, T. Zrnic\*, M. Hardt\
