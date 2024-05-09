@@ -62,7 +62,7 @@ _Note_ [arxiv](https://arxiv.org/abs/2208.01185)
 _Regret Minimization with Performative Feedback_\
 M. Jagadeesan, T. Zrnic, C. Mendler-Dünner\
 _International Conference on Machine Learning (ICML) 2022_ [ICML](https://proceedings.mlr.press/v162/jagadeesan22a.html) [arxiv](https://arxiv.org/abs/2202.00628)\
-_Presented at the Symposium on Foundations of Responsible Computing (FORC) 2022_
+_Symposium on Foundations of Responsible Computing (FORC) 2022 (non-archival)_
 
 _Private Prediction Sets_\
 A. N. Angelopoulos\*, S. Bates\*, T. Zrnic\*, M. I. Jordan\
@@ -75,12 +75,12 @@ _Conference on Neural Information Processing Systems (NeurIPS) 2021_ [NeurIPS](h
 _Individual Privacy Accounting via a Rényi Filter_\
 (α-β) V. Feldman, T. Zrnic\
 _Conference on Neural Information Processing Systems (NeurIPS) 2021_ [NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/ec7f346604f518906d35ef0492709f78-Abstract.html) [arxiv](https://arxiv.org/abs/2008.11193) [short talk](https://www.youtube.com/watch?v=LGTBO1tSuUM) [long talk](https://www.youtube.com/watch?v=ciqats3QPiw)\
-_Presented at the Symposium on Foundations of Responsible Computing (FORC) 2021_
+_Symposium on Foundations of Responsible Computing (FORC) 2021 (non-archival)_
 
 _Outside the Echo Chamber: Optimizing the Performative Risk_\
 J. Miller\*, J. C. Perdomo\*, T. Zrnic\*\
 _International Conference on Machine Learning (ICML) 2021_ [ICML](https://proceedings.mlr.press/v139/miller21a.html) [arxiv](https://arxiv.org/abs/2102.08570) [blog post](https://toc4fairness.org/self-fulfilling-and-self-negating-predictions-a-short-tale-of-performativity-in-machine-learning/)\
-_Presented at the Symposium on Foundations of Responsible Computing (FORC) 2021_
+_Symposium on Foundations of Responsible Computing (FORC) 2021 (non-archival)_
 
 _Asynchronous Online Testing of Multiple Hypotheses_\
 T. Zrnic, A. Ramdas, M. I. Jordan\
