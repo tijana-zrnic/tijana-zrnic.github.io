@@ -19,6 +19,10 @@ office: 116 Sequoia Hall
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
 
+_A Note on the Prediction-Powered Bootstrap_\
+T. Zrnic\
+_Note_ [arxiv](https://arxiv.org/abs/2405.18379)
+
 _Active Statistical Inference_\
 T. Zrnic, E. J. Candès\
 _International Conference on Machine Learning (ICML) 2024_ [arxiv](https://arxiv.org/abs/2403.03208) [code](https://github.com/tijana-zrnic/active-inference)
