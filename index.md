@@ -25,11 +25,11 @@ _Note_ [arxiv](https://arxiv.org/abs/2405.18379) [package](https://github.com/aa
 
 _Active Statistical Inference_\
 T. Zrnic, E. J. Candès\
-_International Conference on Machine Learning (ICML) 2024_ (_oral_) [arxiv](https://arxiv.org/abs/2403.03208) [code](https://github.com/tijana-zrnic/active-inference)
+_International Conference on Machine Learning (ICML) 2024_ (_oral_) [ICML](https://proceedings.mlr.press/v235/zrnic24a.html) [arxiv](https://arxiv.org/abs/2403.03208) [code](https://github.com/tijana-zrnic/active-inference)
 
 _Plug-in Performative Optimization_\
 L. Lin, T. Zrnic\
-_International Conference on Machine Learning (ICML) 2024_ [arxiv](https://arxiv.org/abs/2305.18728)
+_International Conference on Machine Learning (ICML) 2024_ [ICML](https://proceedings.mlr.press/v235/lin24ab.html) [arxiv](https://arxiv.org/abs/2305.18728)
 
 _Locally Simultaneous Inference_\
 T. Zrnic, W. Fithian\
