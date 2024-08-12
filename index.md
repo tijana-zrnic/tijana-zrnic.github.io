@@ -33,7 +33,7 @@ _International Conference on Machine Learning (ICML) 2024_ [ICML](https://procee
 
 _Locally Simultaneous Inference_\
 T. Zrnic, W. Fithian\
-_Annals of Statistics (AoS) 2024+_ [arxiv](https://arxiv.org/abs/2212.09009) [code](https://github.com/tijana-zrnic/locally-simultaneous-inference) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)
+_Annals of Statistics (AoS) 2024_ [AoS](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/Locally-simultaneous-inference/10.1214/24-AOS2391.full) [arxiv](https://arxiv.org/abs/2212.09009) [code](https://github.com/tijana-zrnic/locally-simultaneous-inference) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)
 
 _Cross-Prediction-Powered Inference_\
 T. Zrnic, E. J. Candès\
