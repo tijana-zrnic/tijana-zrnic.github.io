@@ -57,7 +57,7 @@ _International Conference on Machine Learning (ICML) 2023_ [ICML](https://procee
 
 _Valid Inference After Causal Discovery_\
 P. Gradu\*, T. Zrnic\*, Y. Wang, M. I. Jordan\
-_Preprint_ [arxiv](https://arxiv.org/abs/2208.05949)
+_Journal of the American Statistical Association (JASA) 2024+_ [arxiv](https://arxiv.org/abs/2208.05949)
 
 _A Note on Zeroth-Order Optimization on the Simplex_\
 T. Zrnic, E. Mazumdar\
