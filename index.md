@@ -4,13 +4,13 @@ layout: default
 
 I’m a Ram and Vijay Shriram Data Science Postdoctoral Fellow at Stanford University, where I'm hosted by Emmanuel Candès in Statistics.
 
+I obtained my PhD in Electrical Engineering and Computer Sciences at UC Berkeley in 2023, where I was advised by Moritz Hardt and Michael Jordan. I spent the summer of 2020 interning at Apple AI Research, hosted by Vitaly Feldman. My PhD research was generously supported by an Apple PhD Fellowship in AI/ML. Before starting my PhD, I completed my BEng in Electrical and Computer Engineering at the University of Novi Sad in Serbia, where I was advised by Dragana Bajovic. During undergrad I spent a summer at Caltech, working with Babak Hassibi.
+
+## Research
+
 My research establishes foundations to ensure data-driven technologies have a positive impact. I leverage interdisciplinary ideas from statistics, machine learning, economics, social sciences, and beyond to formalize core desiderata, design principled solutions with reliability guarantees, and understand the societal impacts of these technologies.
 
 Topics of interest include [_performative prediction_](http://proceedings.mlr.press/v119/perdomo20a.html), a framework that formalizes the impacts that predictive algorithms can have on society and studies algorithms for finding desirable equilibria in such settings. Much of my recent work focuses on  [_prediction-powered inference_](https://www.science.org/doi/full/10.1126/science.adi6000) and [_active inference_](https://proceedings.mlr.press/v235/zrnic24a.html), developing statistically valid methods for an increasingly common setting in which a small amount of "gold-standard" data is supplemented by a large amount of machine-learning predictions. My work also contributes to the area of [_selective inference_](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/Locally-simultaneous-inference/10.1214/24-AOS2391.full), addressing the problem of drawing reliable conclusions in the presence of selection bias, such as the bias arising from cherry-picking only those hypotheses and models that seem most promising based on the data.
-
-I obtained my PhD in Electrical Engineering and Computer Sciences at UC Berkeley in 2023, where I was advised by Moritz Hardt and Michael Jordan. I spent the summer of 2020 interning at Apple AI Research, hosted by Vitaly Feldman. My PhD research was generously supported by an Apple PhD Fellowship in AI/ML. Before starting my PhD, I completed my BEng in Electrical and Computer Engineering at the University of Novi Sad in Serbia, where I was advised by Dragana Bajovic. During undergrad I spent a summer at Caltech, working with Babak Hassibi.
-
-
 
 ## Contact
 
