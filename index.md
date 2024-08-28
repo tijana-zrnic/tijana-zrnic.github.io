@@ -21,6 +21,10 @@ office: 116 Sequoia Hall
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
 
+_Can Unconfident LLM Annotations Be Used for Confident Conclusions?_\
+K. Gligorić, T. Zrnic, C. Lee, E. J. Candès, Dan Jurafsky\
+_Preprint_ [arxiv](https://arxiv.org/abs/2408.15204)
+
 _A Note on the Prediction-Powered Bootstrap_\
 T. Zrnic\
 _Note_ [arxiv](https://arxiv.org/abs/2405.18379) [package](https://github.com/aangelopoulos/ppi_py)
