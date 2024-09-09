@@ -16,6 +16,8 @@ Topics of interest include [_performative prediction_](http://proceedings.mlr.pr
 email:  "firstname"."lastname"@stanford.edu\
 office: 116 Sequoia Hall 
 
+I hold weekly office hours as part of a broader initiative by the [Learning Theory Alliance](https://let-all.com/index.html). You can book a slot [here](https://let-all.com/officehours.html).
+
 ## Publications and preprints
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
