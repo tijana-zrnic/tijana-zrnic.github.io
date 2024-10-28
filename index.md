@@ -22,10 +22,6 @@ I hold weekly office hours as part of a broader initiative by the [Learning Theo
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
 
-_A Flexible Defense Against the Winner's Curse_\
-T. Zrnic, W. Fithian\
-[_Preprint_](https://drive.google.com/file/d/1OLBqdOP1cswroVEwENHAlJMEJuXotzAP/view)
-
 _Can Unconfident LLM Annotations Be Used for Confident Conclusions?_\
 K. Gligorić\*, T. Zrnic\*, C. Lee\*, E. J. Candès, D. Jurafsky\
 _Preprint_ [arxiv](https://arxiv.org/abs/2408.15204)
