@@ -24,7 +24,15 @@ I hold weekly office hours as part of a broader initiative by the [Learning Theo
 
 _Can Unconfident LLM Annotations Be Used for Confident Conclusions?_\
 K. Gligorić\*, T. Zrnic\*, C. Lee\*, E. J. Candès, D. Jurafsky\
-_Preprint_ [arxiv](https://arxiv.org/abs/2408.15204)
+_Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) 2025_ [arxiv](https://arxiv.org/abs/2408.15204)
+
+_Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI_\
+(α-β) W. Ji, L. Lei, T. Zrnic\
+_Preprint_ [arxiv](https://arxiv.org/abs/2501.09731)
+
+_A Flexible Defense Against the Winner's Curse_\
+T. Zrnic, W. Fithian\
+_Preprint_ [arxiv](https://arxiv.org/abs/2411.18569)
 
 _A Note on the Prediction-Powered Bootstrap_\
 T. Zrnic\
