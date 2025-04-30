@@ -24,7 +24,7 @@ I hold weekly office hours as part of a broader initiative by the [Learning Theo
 
 _Can Unconfident LLM Annotations Be Used for Confident Conclusions?_\
 K. Gligorić\*, T. Zrnic\*, C. Lee\*, E. J. Candès, D. Jurafsky\
-_Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) 2025_ [arxiv](https://arxiv.org/abs/2408.15204)
+_Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) 2025_ [arxiv](https://arxiv.org/abs/2408.15204) [tutorial](https://github.com/kristinagligoric/cdi-tutorial)
 
 _Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling_\
 D. M. Kluger, K. Lu, T. Zrnic, S. Wang, S. Bates\
