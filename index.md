@@ -29,7 +29,7 @@ _Preprint_ [arxiv](https://arxiv.org/abs/2506.10908) [code](https://github.com/t
 
 _Can Unconfident LLM Annotations Be Used for Confident Conclusions?_\
 K. Gligorić\*, T. Zrnic\*, C. Lee\*, E. J. Candès, D. Jurafsky\
-_Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) 2025_ [NAACL](https://aclanthology.org/2025.naacl-long.179.pdf) [arxiv](https://arxiv.org/abs/2408.15204) [tutorial](https://github.com/kristinagligoric/cdi-tutorial)
+_Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) 2025_ [NAACL](https://aclanthology.org/2025.naacl-long.179/) [arxiv](https://arxiv.org/abs/2408.15204) [tutorial](https://github.com/kristinagligoric/cdi-tutorial)
 
 _Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling_\
 D. M. Kluger, K. Lu, T. Zrnic, S. Wang, S. Bates\
@@ -41,7 +41,7 @@ _Preprint_ [arxiv](https://arxiv.org/abs/2501.09731)
 
 _A Flexible Defense Against the Winner's Curse_\
 T. Zrnic, W. Fithian\
-_Under major revision at Annals of Statistics (AoS)_ [arxiv](https://arxiv.org/abs/2411.18569)
+_Under major revision at Annals of Statistics (AoS)_ [arxiv](https://arxiv.org/abs/2411.18569) [code](https://github.com/tijana-zrnic/winners-curse)
 
 _A Note on the Prediction-Powered Bootstrap_\
 T. Zrnic\
