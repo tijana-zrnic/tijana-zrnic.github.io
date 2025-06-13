@@ -2,8 +2,9 @@
 layout: default
 ---
 
-I’m a Ram and Vijay Shriram Postdoctoral Fellow at Stanford University, affiliated with Stanford Data Science. I work with Emmanuel Candès in the Department of Statistics.
+**Starting January 2026, I will be an Assistant Professor at Stanford University, jointly appointed between Statistics, Management Science & Engineering, and, by courtesy, Computer Science.**
 
+Until recently I was a Ram and Vijay Shriram Postdoctoral Fellow at Stanford University, affiliated with Stanford Data Science and working with Emmanuel Candès in the Department of Statistics.
 I obtained my PhD in Electrical Engineering and Computer Sciences at UC Berkeley in 2023, where I was advised by Moritz Hardt and Michael Jordan. I spent the summer of 2020 interning at Apple AI Research, hosted by Vitaly Feldman. My PhD research was generously supported by an Apple PhD Fellowship in AI/ML. Before starting my PhD, I completed my BEng in Electrical and Computer Engineering at the University of Novi Sad in Serbia, where I was advised by Dragana Bajovic. During undergrad I spent a summer at Caltech, working with Babak Hassibi.
 
 ## Research
@@ -21,6 +22,10 @@ I hold weekly office hours as part of a broader initiative by the [Learning Theo
 ## Publications and preprints
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
+
+_Probably Approximately Correct Labels_\
+(α-β) E. J. Candès, A. Ilyas, T. Zrnic\
+_Preprint_ [arxiv](https://arxiv.org/abs/2506.10908) [code](https://github.com/tijana-zrnic/pac-labels/)
 
 _Can Unconfident LLM Annotations Be Used for Confident Conclusions?_\
 K. Gligorić\*, T. Zrnic\*, C. Lee\*, E. J. Candès, D. Jurafsky\
