@@ -2,7 +2,7 @@
 layout: default
 ---
 
-*Starting January 2026, I will be an Assistant Professor at Stanford University, jointly appointed between Statistics, Management Science & Engineering, and, by courtesy, Computer Science.*
+I am a Member of Technical Staff at LMArena. Starting January 2026, I will be an Assistant Professor at Stanford University, jointly appointed between Statistics, Management Science & Engineering, and, by courtesy, Computer Science.
 
 Until recently I was a Ram and Vijay Shriram Postdoctoral Fellow at Stanford University, affiliated with Stanford Data Science and working with Emmanuel Candès in the Department of Statistics.
 I obtained my PhD in Electrical Engineering and Computer Sciences at UC Berkeley in 2023, where I was advised by Moritz Hardt and Michael Jordan. I spent the summer of 2020 interning at Apple AI Research, hosted by Vitaly Feldman. My PhD research was generously supported by an Apple PhD Fellowship in AI/ML. Before starting my PhD, I completed my BEng in Electrical and Computer Engineering at the University of Novi Sad in Serbia, where I was advised by Dragana Bajovic. During undergrad I spent a summer at Caltech, working with Babak Hassibi.
@@ -15,9 +15,7 @@ Topics of interest include [_performative prediction_](http://proceedings.mlr.pr
 ## Contact
 
 email:  "firstname"."lastname"@stanford.edu\
-office: 116 Sequoia Hall 
-
-I hold weekly office hours as part of a broader initiative by the [Learning Theory Alliance](https://let-all.com/index.html). You can book a slot [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3m3hDqI7h-_HhcJS1ywry1jgNWgywjVERKZ3rqKnWIlFUm8lWzsnLJvkSdU68ZVIGh5rLVuFaS).
+office: E248 CoDa
 
 ## Publications and preprints
 
