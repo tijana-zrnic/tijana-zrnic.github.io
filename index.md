@@ -25,6 +25,14 @@ _Probably Approximately Correct Labels_\
 (α-β) E. J. Candès, A. Ilyas, T. Zrnic\
 _Preprint_ [arxiv](https://arxiv.org/abs/2506.10908) [code](https://github.com/tijana-zrnic/pac-labels/)
 
+_Robust Sampling for Active Statistical Inference_\
+P. Li, T. Zrnic, E. J. Candès\
+_Preprint_ [arxiv](https://arxiv.org/abs/2511.08991) 
+
+_Look-Ahead Reasoning on Learning Platforms_\
+H. Zhu, T. Zrnic, C. Mendler-Dünner\
+_Preprint_ [arxiv](https://arxiv.org/abs/2511.14745) 
+
 _Can Unconfident LLM Annotations Be Used for Confident Conclusions?_\
 K. Gligorić\*, T. Zrnic\*, C. Lee\*, E. J. Candès, D. Jurafsky\
 _Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) 2025_ [NAACL](https://aclanthology.org/2025.naacl-long.179/) [arxiv](https://arxiv.org/abs/2408.15204) [tutorial](https://github.com/kristinagligoric/cdi-tutorial)
