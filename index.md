@@ -23,7 +23,7 @@ office: E248 CoDa
 
 _Probably Approximately Correct Labels_\
 (α-β) E. J. Candès, A. Ilyas, T. Zrnic\
-_Preprint_ [arxiv](https://arxiv.org/abs/2506.10908) [code](https://github.com/tijana-zrnic/pac-labels/)
+_Preprint_ [arxiv](https://arxiv.org/abs/2506.10908) [code](https://github.com/tijana-zrnic/pac-labels/) [talk](https://www.youtube.com/watch?v=1C0iyjLm8Qk)
 
 _Robust Sampling for Active Statistical Inference_\
 P. Li, T. Zrnic, E. J. Candès\
