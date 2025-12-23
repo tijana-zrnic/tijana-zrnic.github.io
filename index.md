@@ -47,11 +47,11 @@ _Preprint_ [arxiv](https://arxiv.org/abs/2501.09731)
 
 _A Flexible Defense Against the Winner's Curse_\
 T. Zrnic, W. Fithian\
-_Annals of Statistics (AoS) 2025+_ [arxiv](https://arxiv.org/abs/2411.18569) [code](https://github.com/tijana-zrnic/winners-curse)
+_Annals of Statistics (AoS) 2025_ [AoS](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-6/A-flexible-defense-against-the-winners-curse/10.1214/25-AOS2553.short) [arxiv](https://arxiv.org/abs/2411.18569) [code](https://github.com/tijana-zrnic/winners-curse)
 
 _A Note on the Prediction-Powered Bootstrap_\
 T. Zrnic\
-_Note_ [arxiv](https://arxiv.org/abs/2405.18379) [package](https://github.com/aangelopoulos/ppi_py)
+_Note 2024_ [arxiv](https://arxiv.org/abs/2405.18379) [package](https://github.com/aangelopoulos/ppi_py)
 
 _Active Statistical Inference_\
 T. Zrnic, E. J. Candès\
