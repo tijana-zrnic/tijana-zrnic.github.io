@@ -6,7 +6,7 @@ I am an Assistant Professor at Stanford University, jointly appointed between St
 
 I work on foundational questions in machine learning, statistics, and data-driven decision-making. Example topics of interest include AI-assisted [_statistical inference_](https://www.science.org/doi/full/10.1126/science.adi6000) and [_data collection_](https://proceedings.mlr.press/v235/zrnic24a.html), [_performative prediction_](http://proceedings.mlr.press/v119/perdomo20a.html), and studying [_selection bias_](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-6/A-flexible-defense-against-the-winners-curse/10.1214/25-AOS2553.short).
 
-Until recently I was a Member of Technical Staff at LMArena. Before that, I was a Ram and Vijay Shriram Postdoctoral Fellow at Stanford University, affiliated with Stanford Data Science.
+Until recently I took an academic hiatus to work as a Member of Technical Staff at LMArena. Before that, I was a Ram and Vijay Shriram Postdoctoral Fellow at Stanford University, affiliated with Stanford Data Science.
 I obtained my PhD in Electrical Engineering and Computer Sciences at UC Berkeley in 2023. 
 
 
