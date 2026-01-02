@@ -2,15 +2,13 @@
 layout: default
 ---
 
-I am a Member of Technical Staff at LMArena. Starting January 2026, I will be an Assistant Professor at Stanford University, jointly appointed between Statistics, Management Science & Engineering, and, by courtesy, Computer Science.
+I am an Assistant Professor at Stanford University, jointly appointed between Statistics, Management Science & Engineering, and, by courtesy, Computer Science.
 
-Until recently I was a Ram and Vijay Shriram Postdoctoral Fellow at Stanford University, affiliated with Stanford Data Science and working with Emmanuel Candès in the Department of Statistics.
-I obtained my PhD in Electrical Engineering and Computer Sciences at UC Berkeley in 2023, where I was advised by Moritz Hardt and Michael Jordan. I spent the summer of 2020 interning at Apple AI Research, hosted by Vitaly Feldman. My PhD research was generously supported by an Apple PhD Fellowship in AI/ML. Before starting my PhD, I completed my BEng in Electrical and Computer Engineering at the University of Novi Sad in Serbia, where I was advised by Dragana Bajovic. During undergrad I spent a summer at Caltech, working with Babak Hassibi.
+I work on foundational questions in machine learning, statistics, and data-driven decision-making. Example topics of interest include AI-assisted [_statistical inference_](https://www.science.org/doi/full/10.1126/science.adi6000) and [_data collection_](https://proceedings.mlr.press/v235/zrnic24a.html), [_performative prediction_](http://proceedings.mlr.press/v119/perdomo20a.html), and studying [_selection bias_](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-6/A-flexible-defense-against-the-winners-curse/10.1214/25-AOS2553.short).
 
-## Research
+Until recently I was a Member of Technical Staff at LMArena. Before that, I was a Ram and Vijay Shriram Postdoctoral Fellow at Stanford University, affiliated with Stanford Data Science.
+I obtained my PhD in Electrical Engineering and Computer Sciences at UC Berkeley in 2023. 
 
-My research establishes foundations to ensure data-driven technologies have a positive impact.
-Topics of interest include [_performative prediction_](http://proceedings.mlr.press/v119/perdomo20a.html), a framework that formalizes the impacts that predictive algorithms can have on society and studies algorithms for finding desirable equilibria in such settings. Much of my recent work focuses on  [_prediction-powered inference_](https://www.science.org/doi/full/10.1126/science.adi6000) and [_active inference_](https://proceedings.mlr.press/v235/zrnic24a.html), developing statistically valid methods for an increasingly common setting in which a small amount of "gold-standard" data is supplemented by a large amount of AI predictions. My work also contributes to drawing reliable conclusions in the presence of [_selection bias_](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/Locally-simultaneous-inference/10.1214/24-AOS2391.full), such as the bias arising from cherry-picking only those effects and models that seem most promising based on the data.
 
 ## Contact
 
