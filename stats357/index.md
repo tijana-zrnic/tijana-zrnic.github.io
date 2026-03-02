@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course
 title: Statistics 357 — Reliability and Validity in Artificial Intelligence
 # Prevent search engines from indexing this page (not linked from main site)
 robots: noindex, nofollow
