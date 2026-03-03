@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Statistics 357 — Reliability and Validity in Artificial Intelligence
+title: STATS 357 — Reliability and Validity in Artificial Intelligence
 # Prevent search engines from indexing this page (not linked from main site)
 robots: noindex, nofollow
 ---
@@ -23,15 +23,19 @@ Mon/Wed 9:30am-10:50am, [McCullough 122](https://campus-map.stanford.edu/?id=04-
 
 ---
 
+## Office hours
+
+TBD
+
+---
+
 ## Course description
 
-This course examines the principles and methods required to make artificial intelligence (AI) systems reliable and scientifically sound. Topics include evaluation and benchmarking, notions of validity, distribution shift, causality, predictive inference, AI-assisted statistical inference, data attribution, and beyond. Problem sets will involve both mathematical components and coding projects to see the practical effects of the methods we develop.
+This course examines the principles and methods required to make artificial intelligence (AI) systems reliable and scientifically sound. Topics include evaluation and benchmarking, notions of validity, distribution shift, predictive inference, AI-assisted statistical inference, data attribution, and beyond. Problem sets will involve both mathematical components and coding projects to see the practical effects of the methods we develop.
 
 ---
 
 ## Syllabus
-
-The syllabus will be approximately as follows.
 
 | Lecture | Date | Topics | Reading |
 |---------|---------|---------|---------|
@@ -45,11 +49,13 @@ The syllabus will be approximately as follows.
 | 8 | Apr 22 | Predictive inference; Conformal prediction | TBD |
 | 9 | Apr 27 | Predictive inference under distribution shift | TBD |
 | 10 | Apr 29 | Calibration | TBD |
-| 11 | May 4 | _Frontier lecture_ | TBD |
-| 12 | May 6 | AI for science; Prediction-powered inference (PPI) | TBD |
-| 13 | May 11 | PPI pt. 2 | TBD |
-| 14 | May 13 | Causality | TBD |
-| 15 | May 18 | Causality pt. 2 | TBD |
-| 16 | May 20 | _Frontier lecture_ | TBD |
-| 17 | May 25 | Data attribution | TBD |
-| 18 | May 27 | Data attribution pt. 2 | TBD |
+| 11 | May 4 | Multicalibration | TBD |
+| 12 | May 6 | _Frontier lecture_ | TBD |
+| 13 | May 11 | AI for science; Prediction-powered inference (PPI) | TBD |
+| 14 | May 13 | PPI pt. 2 | TBD |
+| 15 | May 18 | AI-assisted annotation | TBD |
+| 16 | May 20 | Data attribution | TBD |
+| 17 | May 25 | Data attribution pt. 2 | TBD |
+| 18 | May 27 | _Frontier lecture_ | TBD |
+
+"Frontier lectures" will consist of student presentations of frontier papers related to the class topics.
