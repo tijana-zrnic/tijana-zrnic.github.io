@@ -1,11 +1,11 @@
 ---
 layout: course
-title: STATS 357 — Reliability and Validity in Artificial Intelligence
+title: STATS357 — Reliability and Validity in Artificial Intelligence
 # Prevent search engines from indexing this page (not linked from main site)
 robots: noindex, nofollow
 ---
 
-# Statistics 357: Reliability and Validity in Artificial Intelligence
+# STATS357: Reliability and Validity in Artificial Intelligence
 
 Tijana Zrnic, Stanford University, Spring 2026
 
