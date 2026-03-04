@@ -9,7 +9,7 @@ I work on foundational questions in machine learning, statistics, and data-drive
 Until recently I took an academic hiatus to work on AI evaluation as a Member of Technical Staff at Arena. Before that, I was a Ram and Vijay Shriram Postdoctoral Fellow at Stanford University, affiliated with Stanford Data Science.
 I obtained my PhD in Electrical Engineering and Computer Sciences at UC Berkeley in 2023. 
 
-In Spring 2026 I will be teaching [Reliability and Validity in Artificial Intelligence](https://bulletin.stanford.edu/courses/2280221).
+In Spring 2026 I will be teaching [Reliability and Validity in Artificial Intelligence](https://bulletin.stanford.edu/courses/2280221). See [here](https://tijana-zrnic.github.io/stats357/) for the syllabus and further info.
 
 ## Contact
 
