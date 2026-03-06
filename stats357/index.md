@@ -1,11 +1,11 @@
 ---
 layout: course
-title: STATS357 — Reliability and Validity in Artificial Intelligence
+title: STATS 357 / MS&E 330 — Reliability and Validity in Artificial Intelligence
 # Prevent search engines from indexing this page (not linked from main site)
 robots: noindex, nofollow
 ---
 
-# STATS357: Reliability and Validity in Artificial Intelligence
+# STATS 357 / MS&E 330: Reliability and Validity in Artificial Intelligence
 
 Tijana Zrnic, Stanford University, Spring 2026
 
@@ -13,7 +13,7 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
-- Welcome to STATS357!
+- Welcome to STATS 357 / MS&E 330!
 
 ---
 
