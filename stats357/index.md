@@ -58,16 +58,14 @@ This course examines the principles and methods required to make artificial inte
 
 "Frontier lectures" will consist of student presentations of frontier papers related to the class topics.
 
-[1] M. Hardt. [The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org). _https://mlbenchmarks.org_, 2025.
-
-[2] S. Bates, T. Hasie, R. Tibshirani. [Cross-validation: what does it estimate and how well does it do it?](https://arxiv.org/abs/2104.00673) _Journal of the American Statistical Association_, 2024.
-
+[1] M. Hardt. [The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org). _https://mlbenchmarks.org_, 2025.\
+[2] S. Bates, T. Hasie, R. Tibshirani. [Cross-validation: what does it estimate and how well does it do it?](https://arxiv.org/abs/2104.00673) _Journal of the American Statistical Association_, 2024.\
 [3] S. Wager. [Cross-validation, risk estimation, and model selection: Comment on a paper by Rosset and Tibshirani](https://arxiv.org/abs/1909.11696). _Journal of the American Statistical Association_, 2020.
 
 ---
 
 ## Grading
 
-Homework (40%): math problems + coding problems
-Frontier lecture presentation (10%): ~10 minute group presentation of a paper you will choose
+Homework (40%): math problems + coding problems\
+Frontier lecture presentation (10%): ~10 minute group presentation of a paper you will choose\
 Final project (50%): group final project on a topic broadly related to the class
