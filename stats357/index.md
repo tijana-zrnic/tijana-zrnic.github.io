@@ -23,13 +23,13 @@ Mon/Wed 9:30am-10:50am, [McCullough 122](https://campus-map.stanford.edu/?id=04-
 
 ## Office hours
 
-Mon 11am-12pm, CoDa E248
+Mon 11am-12pm, [CoDa E248](https://campus-map.stanford.edu/?id=07-430)
 
 ---
 
 ## Course description
 
-This course examines the principles and methods required to make artificial intelligence (AI) systems reliable and scientifically sound. Topics include evaluation and benchmarking, notions of validity, distribution shift, predictive inference, AI-assisted statistical inference, data attribution, and beyond. Problem sets will involve both mathematical components and coding projects to see the practical effects of the methods we develop.
+This course examines the principles and methods required to make artificial intelligence (AI) systems reliable and scientifically sound. Topics include evaluation and benchmarking, notions of validity, distribution shift, predictive inference, AI-assisted statistical inference, data attribution, and beyond. Problem sets will involve both mathematical components and coding projects.
 
 ---
 
