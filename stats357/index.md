@@ -21,15 +21,21 @@ Mon/Wed 9:30am-10:50am, [McCullough 122](https://campus-map.stanford.edu/?id=04-
 
 ---
 
-## Office hours
+## Staff
 
-Mon 11am-12pm, [CoDa E248](https://campus-map.stanford.edu/?id=07-430)
+Instructor: Tijana Zrnic
+- Office hours: Mon 11am-12pm, [CoDa E248](https://campus-map.stanford.edu/?id=07-430)
+
+Teaching assistant: Reese Feldmeier
+- Office hours: TBD
 
 ---
 
 ## Course description
 
 This course examines the principles and methods required to make artificial intelligence (AI) systems reliable and scientifically sound. Topics include evaluation and benchmarking, notions of validity, distribution shift, predictive inference, AI-assisted statistical inference, data attribution, and beyond. Problem sets will involve both mathematical components and coding projects.
+
+Prerequisites include mathematical maturity in probability, statistics, and optimization, and proficiency in Python.
 
 ---
 
