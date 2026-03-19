@@ -1,8 +1,6 @@
 ---
 layout: course
 title: STATS 357 / MS&E 330 — Reliability and Validity in Artificial Intelligence
-# Prevent search engines from indexing this page (not linked from main site)
-robots: noindex, nofollow
 ---
 
 # STATS 357 / MS&E 330: Reliability and Validity in Artificial Intelligence
@@ -39,8 +37,8 @@ This course examines the principles and methods required to make artificial inte
 
 | Lecture | Date | Topics | Reading |
 |---------|---------|---------|---------|
-| 1 | Mar 30 | Benchmarks; Holdout method | TBD |
-| 2 | Apr 1 | Cross-validation; Bootstrap | TBD |
+| 1 | Mar 30 | Benchmarks; Holdout method | Ch.3&4 in [1] |
+| 2 | Apr 1 | Cross-validation; Bootstrap | [2, 3] |
 | 3 | Apr 6 | Model selection; Overfitting & selection bias | TBD |
 | 4 | Apr 8 | Adaptive overfitting | TBD |
 | 5 | Apr 13 | Internal, external, & construct validity | TBD |
@@ -59,3 +57,9 @@ This course examines the principles and methods required to make artificial inte
 | 18 | May 27 | _Frontier lecture_ | TBD |
 
 "Frontier lectures" will consist of student presentations of frontier papers related to the class topics.
+
+[1] M. Hardt. [The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org). _https://mlbenchmarks.org_, 2025.
+
+[2] S. Bates, T. Hasie, R. Tibshirani. [Cross-validation: what does it estimate and how well does it do it?](https://arxiv.org/abs/2104.00673) _Journal of the American Statistical Association_, 2024.
+
+[3] S. Wager. [Cross-validation, risk estimation, and model selection: Comment on a paper by Rosset and Tibshirani](https://arxiv.org/abs/1909.11696) _Journal of the American Statistical Association_, 2020.
