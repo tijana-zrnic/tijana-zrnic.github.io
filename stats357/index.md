@@ -37,10 +37,10 @@ This course examines the principles and methods required to make artificial inte
 
 | Lecture | Date | Topics | Reading |
 |---------|---------|---------|---------|
-| 1 | Mar 30 | Benchmarks; Holdout method | Ch.3&4 in [1] |
-| 2 | Apr 1 | Cross-validation; Bootstrap | Ch.4 in [1], [2, 3] |
-| 3 | Apr 6 | Model selection; Overfitting & selection bias | Ch.4&5 in [1] |
-| 4 | Apr 8 | Adaptive overfitting | Ch.5 in [1] |
+| 1 | Mar 30 | Benchmarks; Holdout method | [1, Ch. 3 & 4] |
+| 2 | Apr 1 | Cross-validation; Bootstrap | [1, Ch. 4; 2; 3] |
+| 3 | Apr 6 | Model selection; Overfitting & selection bias | [1, Ch. 4 & 5] |
+| 4 | Apr 8 | Adaptive overfitting | [1, Ch. 5] |
 | 5 | Apr 13 | Internal, external, & construct validity | TBD |
 | 6 | Apr 15 | _Frontier lecture_ | TBD |
 | 7 | Apr 20 | Distribution shift | TBD |
@@ -66,6 +66,6 @@ This course examines the principles and methods required to make artificial inte
 
 ## Grading
 
-Homework (40%): math problems + coding problems\
-Frontier lecture presentation (10%): ~10 minute group presentation of a paper you will choose\
+Homework (40%): four biweekly problem sets with math and coding problems\
+Frontier lecture presentation (10%): one ~10 minute group presentation of a paper you will choose\
 Final project (50%): group final project on a topic broadly related to the class
