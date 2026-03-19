@@ -38,9 +38,9 @@ This course examines the principles and methods required to make artificial inte
 | Lecture | Date | Topics | Reading |
 |---------|---------|---------|---------|
 | 1 | Mar 30 | Benchmarks; Holdout method | Ch.3&4 in [1] |
-| 2 | Apr 1 | Cross-validation; Bootstrap | [2, 3] |
-| 3 | Apr 6 | Model selection; Overfitting & selection bias | TBD |
-| 4 | Apr 8 | Adaptive overfitting | TBD |
+| 2 | Apr 1 | Cross-validation; Bootstrap | Ch.4 in [1], [2, 3] |
+| 3 | Apr 6 | Model selection; Overfitting & selection bias | Ch.4&5 in [1] |
+| 4 | Apr 8 | Adaptive overfitting | Ch.5 in [1] |
 | 5 | Apr 13 | Internal, external, & construct validity | TBD |
 | 6 | Apr 15 | _Frontier lecture_ | TBD |
 | 7 | Apr 20 | Distribution shift | TBD |
