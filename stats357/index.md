@@ -23,7 +23,7 @@ Mon/Wed 9:30am-10:50am, [McCullough 122](https://campus-map.stanford.edu/?id=04-
 
 ## Office hours
 
-TBD
+Mon 11am-12pm, CoDa E248
 
 ---
 
@@ -62,4 +62,12 @@ This course examines the principles and methods required to make artificial inte
 
 [2] S. Bates, T. Hasie, R. Tibshirani. [Cross-validation: what does it estimate and how well does it do it?](https://arxiv.org/abs/2104.00673) _Journal of the American Statistical Association_, 2024.
 
-[3] S. Wager. [Cross-validation, risk estimation, and model selection: Comment on a paper by Rosset and Tibshirani](https://arxiv.org/abs/1909.11696) _Journal of the American Statistical Association_, 2020.
+[3] S. Wager. [Cross-validation, risk estimation, and model selection: Comment on a paper by Rosset and Tibshirani](https://arxiv.org/abs/1909.11696). _Journal of the American Statistical Association_, 2020.
+
+---
+
+## Grading
+
+Homework (40%): math problems + coding problems
+Frontier lecture presentation (10%): ~10 minute group presentation of a paper you will choose
+Final project (50%): group final project on a topic broadly related to the class
