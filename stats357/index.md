@@ -11,6 +11,7 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
+- The class and waitlist are full. If you want to take the class but are not enrolled or on the waitlist, please email me.
 - Welcome to STATS 357 / MS&E 330!
 
 ---
@@ -27,7 +28,7 @@ Instructor: Tijana Zrnic
 - Office hours: Mon 11am-12pm, [CoDa E248](https://campus-map.stanford.edu/?id=07-430)
 
 Teaching assistant: Reese Feldmeier
-- Office hours: TBD
+- Office hours: Thu 3pm-4:30pm, location TBA
 
 ---
 
