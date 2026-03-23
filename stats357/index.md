@@ -46,7 +46,7 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 |---------|---------|---------|---------|
 | 1 | Mar 30 | Benchmarks; Holdout method | [1, Ch. 3 & 4] |
 | 2 | Apr 1 | Cross-validation; Bootstrap | [1, Ch. 4; 2; 3] |
-| 3 | Apr 6 | Model selection; Overfitting & selection bias | [1, Ch. 4 & 5] |
+| 3 | Apr 6 | Model selection & selection bias; Overfitting & reward hacking | [1, Ch. 4 & 5; 4] |
 | 4 | Apr 8 | Adaptive overfitting | [1, Ch. 5] |
 | 5 | Apr 13 | Internal, external, & construct validity | TBD |
 | 6 | Apr 15 | _Frontier lecture_ | TBD |
@@ -66,8 +66,9 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 "Frontier lectures" will consist of student presentations of frontier papers related to the class topics.
 
 [1] M. Hardt. [The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org). _https://mlbenchmarks.org_, 2025.\
-[2] S. Bates, T. Hasie, R. Tibshirani. [Cross-validation: what does it estimate and how well does it do it?](https://arxiv.org/abs/2104.00673) _Journal of the American Statistical Association_, 2024.\
-[3] S. Wager. [Cross-validation, risk estimation, and model selection: Comment on a paper by Rosset and Tibshirani](https://arxiv.org/abs/1909.11696). _Journal of the American Statistical Association_, 2020.
+[2] S. Bates, T. Hasie, R. Tibshirani. [Cross-Validation: What Does It Estimate and How Well Does It Do It?](https://arxiv.org/abs/2104.00673) _Journal of the American Statistical Association_, 2024.\
+[3] S. Wager. [Cross-Validation, Risk Estimation, and Model Selection: Comment on a Paper by Rosset and Tibshirani](https://arxiv.org/abs/1909.11696). _Journal of the American Statistical Association_, 2020.\
+[4] L. Gao, J. Schulman, J. Hilton. [Scaling Laws for Reward Model Overoptimization](https://proceedings.mlr.press/v202/gao23h). _International Conference on Machine Learning (ICML)_, 2023.
 
 ---
 
