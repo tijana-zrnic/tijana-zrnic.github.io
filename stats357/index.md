@@ -28,7 +28,7 @@ Instructor: Tijana Zrnic
 - Office hours: Mon 11am-12pm, [CoDa E248](https://campus-map.stanford.edu/?id=07-430)
 
 Teaching assistant: Reese Feldmeier
-- Office hours: Thu 3pm-4:30pm, location TBA
+- Office hours: Thu 3pm-4:30pm, [CoDa B06](https://campus-map.stanford.edu/?id=07-430)
 
 ---
 
