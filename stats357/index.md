@@ -11,7 +11,6 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
-- The class and waitlist are full. If you want to take the class but are not enrolled or on the waitlist, please email me.
 - Welcome to STATS 357 / MS&E 330!
 
 ---
@@ -48,7 +47,7 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 | 2 | Apr 1 | Cross-validation; Bootstrap | [1, Ch. 4; 2; 3] |
 | 3 | Apr 6 | Model selection & selection bias; Overfitting pt. 1: reward hacking | [1, Ch. 4 & 5; 4] |
 | 4 | Apr 8 | Overfitting pt. 2: benchmark contamination | [5] |
-| 5 | Apr 13 | Internal, external, & construct validity | TBD |
+| 5 | Apr 13 | Internal, external, & construct validity | [6; 7; 8] |
 | 6 | Apr 15 | _Frontier lecture_ | TBD |
 | 7 | Apr 20 | Distribution shift | TBD |
 | 8 | Apr 22 | Predictive inference; Conformal prediction | TBD |
@@ -69,7 +68,10 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 [2] S. Bates, T. Hasie, R. Tibshirani. [Cross-Validation: What Does It Estimate and How Well Does It Do It?](https://arxiv.org/abs/2104.00673) _Journal of the American Statistical Association_, 2024.\
 [3] S. Wager. [Cross-Validation, Risk Estimation, and Model Selection: Comment on a Paper by Rosset and Tibshirani](https://arxiv.org/abs/1909.11696). _Journal of the American Statistical Association_, 2020.\
 [4] L. Gao, J. Schulman, J. Hilton. [Scaling Laws for Reward Model Overoptimization](https://proceedings.mlr.press/v202/gao23h). _International Conference on Machine Learning (ICML)_, 2023.\
-[5] Y. Oren, N. Meister, N. Chatterji, F. Ladhak, T. B. Hashimoto. [Proving Test Set Contamination in Black Box Language Models](https://arxiv.org/pdf/2310.17623). _International Conference on Learning Representations (ICLR)_, 2024.
+[5] Y. Oren, N. Meister, N. Chatterji, F. Ladhak, T. B. Hashimoto. [Proving Test Set Contamination in Black Box Language Models](https://arxiv.org/abs/2310.17623). _International Conference on Learning Representations (ICLR)_, 2024.\
+[6] O. Salaudeen, A. Reuel, A. Ahmed, S. Bedi, Z. Robertson, S. Sundar, B. Domingue, A. Wang, S. Koyejo. [Measurement to Meaning: A Validity-Centered Framework for AI Evaluation](https://arxiv.org/abs/2505.10573). 2025\
+[7] B. Recht, B. Roelofs, V. Shankar, L. Schmidt. [Do ImageNet Classifiers Generalize to ImageNet?](https://arxiv.org/abs/1902.10811) _International Conference on Machine Learning (ICML)_, 2019 \
+[8] M. Mancoridis, K. Vafa, B. Weeks, S. Mullainathan. [Potemkin Understanding in Large Language Models](https://arxiv.org/abs/2506.21521). _International Conference on Machine Learning (ICML)_, 2025
 
 ---
 
