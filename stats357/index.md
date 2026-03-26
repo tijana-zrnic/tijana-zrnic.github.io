@@ -11,13 +11,14 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
+- [3/26] To accommodate everyone on the waitlist, we switched the room to CoDa B06 for now. See you on Monday!
 - Welcome to STATS 357 / MS&E 330!
 
 ---
 
 ## Lectures
 
-Mon/Wed 9:30am-10:50am, [McCullough 122](https://campus-map.stanford.edu/?id=04-490)
+Mon/Wed 9:30am-10:50am, [CoDa B06](https://campus-map.stanford.edu/?id=07-430)
 
 ---
 
