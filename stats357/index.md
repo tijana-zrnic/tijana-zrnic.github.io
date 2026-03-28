@@ -80,3 +80,9 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 Homework (40%): four biweekly problem sets with math and coding problems\
 Frontier lecture presentation (10%): one ~10 minute group presentation of a paper you will choose\
 Final project (50%): group final project on a topic broadly related to the class
+
+---
+
+## Logistics
+
+Homework and lecture slides will be distributed on Canvas. For homework submissions, we will use Gradescope. For Q&A and class-related discussions, we will use Ed.
