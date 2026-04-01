@@ -11,6 +11,7 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
+- [4/1] Homework 1 is up! It's due on 4/15 EOD.
 - [3/31] Slides for lectures 1 & 2 have been posted on Canvas.
 - Welcome to STATS 357 / MS&E 330!
 
