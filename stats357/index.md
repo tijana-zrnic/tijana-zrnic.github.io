@@ -52,7 +52,7 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 | 4 | Apr 8 | Overfitting pt. 2: benchmark contamination | [5] |
 | 5 | Apr 13 | Internal, external, & construct validity | [6; 7; 8] |
 | 6 | Apr 15 | _Frontier lecture_ | see signup sheet |
-| 7 | Apr 20 | Distribution shift | TBD |
+| 7 | Apr 20 | Distribution shift | [9, Ch. 1 & 6] |
 | 8 | Apr 22 | Predictive inference; Conformal prediction | TBD |
 | 9 | Apr 27 | Predictive inference under distribution shift | TBD |
 | 10 | Apr 29 | Calibration | TBD |
@@ -73,8 +73,9 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 [4] L. Gao, J. Schulman, J. Hilton. [Scaling Laws for Reward Model Overoptimization](https://proceedings.mlr.press/v202/gao23h). _International Conference on Machine Learning (ICML)_, 2023.\
 [5] Y. Oren, N. Meister, N. Chatterji, F. Ladhak, T. B. Hashimoto. [Proving Test Set Contamination in Black Box Language Models](https://arxiv.org/abs/2310.17623). _International Conference on Learning Representations (ICLR)_, 2024.\
 [6] O. Salaudeen, A. Reuel, A. Ahmed, S. Bedi, Z. Robertson, S. Sundar, B. Domingue, A. Wang, S. Koyejo. [Measurement to Meaning: A Validity-Centered Framework for AI Evaluation](https://arxiv.org/abs/2505.10573). 2025.\
-[7] M. Mancoridis, K. Vafa, B. Weeks, S. Mullainathan. [Potemkin Understanding in Large Language Models](https://arxiv.org/abs/2506.21521). _International Conference on Machine Learning (ICML)_, 2025.
-[8] J. D. Gaebler, C. Isley, C. Avery, S. Goel. [Reassessing the Role of Standardized Tests in University Admissions](https://5harad.com/papers/testing-debate.pdf). _Preprint_, 2026.
+[7] M. Mancoridis, K. Vafa, B. Weeks, S. Mullainathan. [Potemkin Understanding in Large Language Models](https://arxiv.org/abs/2506.21521). _International Conference on Machine Learning (ICML)_, 2025.\
+[8] J. D. Gaebler, C. Isley, C. Avery, S. Goel. [Reassessing the Role of Standardized Tests in University Admissions](https://5harad.com/papers/testing-debate.pdf). _Preprint_, 2026.\
+[9]  J. Quiñonero-Candela, M. Sugiyama, A. Schwaighofer, N. D. Lawrence. [Dataset Shift in Machine Learning](https://mitpress.mit.edu/9780262545877/dataset-shift-in-machine-learning/). _MIT Press_, 2008.
 
 ---
 
