@@ -51,7 +51,7 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 | 3 | Apr 6 | Model selection & selection bias; Overfitting pt. 1: reward hacking | [1, Ch. 4 & 5; 4] |
 | 4 | Apr 8 | Overfitting pt. 2: benchmark contamination | [5] |
 | 5 | Apr 13 | Internal, external, & construct validity | [6; 7; 8] |
-| 6 | Apr 15 | _Frontier lecture_ | TBD |
+| 6 | Apr 15 | _Frontier lecture_ | see signup sheet |
 | 7 | Apr 20 | Distribution shift | TBD |
 | 8 | Apr 22 | Predictive inference; Conformal prediction | TBD |
 | 9 | Apr 27 | Predictive inference under distribution shift | TBD |
@@ -72,17 +72,20 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 [3] S. Wager. [Cross-Validation, Risk Estimation, and Model Selection: Comment on a Paper by Rosset and Tibshirani](https://arxiv.org/abs/1909.11696). _Journal of the American Statistical Association_, 2020.\
 [4] L. Gao, J. Schulman, J. Hilton. [Scaling Laws for Reward Model Overoptimization](https://proceedings.mlr.press/v202/gao23h). _International Conference on Machine Learning (ICML)_, 2023.\
 [5] Y. Oren, N. Meister, N. Chatterji, F. Ladhak, T. B. Hashimoto. [Proving Test Set Contamination in Black Box Language Models](https://arxiv.org/abs/2310.17623). _International Conference on Learning Representations (ICLR)_, 2024.\
-[6] O. Salaudeen, A. Reuel, A. Ahmed, S. Bedi, Z. Robertson, S. Sundar, B. Domingue, A. Wang, S. Koyejo. [Measurement to Meaning: A Validity-Centered Framework for AI Evaluation](https://arxiv.org/abs/2505.10573). 2025\
-[7] B. Recht, B. Roelofs, V. Shankar, L. Schmidt. [Do ImageNet Classifiers Generalize to ImageNet?](https://arxiv.org/abs/1902.10811) _International Conference on Machine Learning (ICML)_, 2019 \
-[8] M. Mancoridis, K. Vafa, B. Weeks, S. Mullainathan. [Potemkin Understanding in Large Language Models](https://arxiv.org/abs/2506.21521). _International Conference on Machine Learning (ICML)_, 2025
+[6] O. Salaudeen, A. Reuel, A. Ahmed, S. Bedi, Z. Robertson, S. Sundar, B. Domingue, A. Wang, S. Koyejo. [Measurement to Meaning: A Validity-Centered Framework for AI Evaluation](https://arxiv.org/abs/2505.10573). 2025.\
+[7] M. Mancoridis, K. Vafa, B. Weeks, S. Mullainathan. [Potemkin Understanding in Large Language Models](https://arxiv.org/abs/2506.21521). _International Conference on Machine Learning (ICML)_, 2025.
+[8] J. D. Gaebler, C. Isley, C. Avery, S. Goel. [Reassessing the Role of Standardized Tests in University Admissions](https://5harad.com/papers/testing-debate.pdf). _Preprint_, 2026.
 
 ---
 
 ## Grading
 
+If you are taking the class for a letter grade:\
 Homework (40%): four biweekly problem sets with math and coding problems\
 Frontier lecture presentation (10%): one ~10 minute group presentation of a paper you will choose\
 Final project (50%): group final project on a topic broadly related to the class
+
+If you are taking the class for CR/NC, you don't have to do a frontier lecture presentation. Only homework and final project.
 
 ---
 
