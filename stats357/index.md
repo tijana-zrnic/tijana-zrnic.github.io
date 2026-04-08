@@ -11,6 +11,7 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
+- [4/8] I adjusted the class schedule. On May 11 we won't have a lecture, but we'll have extended office hours that week.
 - [4/3] We expanded enrollment. There are a handful of people still on the waitlist, but I expect everyone will be able to enroll.
 - [4/1] Homework 1 is up! It's due on 4/15 EOD.
 - [3/31] Slides for lectures 1 & 2 have been posted on Canvas.
@@ -58,12 +59,12 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 | 10 | Apr 29 | Calibration | TBD |
 | 11 | May 4 | Multicalibration | TBD |
 | 12 | May 6 | _Frontier lecture_ | TBD |
-| 13 | May 11 | AI for science; Prediction-powered inference (PPI) | TBD |
-| 14 | May 13 | PPI pt. 2 | TBD |
-| 15 | May 18 | AI-assisted annotation | TBD |
-| 16 | May 20 | Data attribution | TBD |
-| 17 | May 25 | Data attribution pt. 2 | TBD |
-| 18 | May 27 | _Frontier lecture_ | TBD |
+|   | May 11 | No class; Extended office hours instead |  |
+| 13 | May 13 | AI for science; Prediction-powered inference (PPI) | TBD |
+| 14 | May 28 | AI-assisted annotation | TBD |
+| 15 | May 20 | Data attribution | TBD |
+|   | May 25 | Memorial Day (no class) |   |
+| 16 | May 27 | _Frontier lecture_ | TBD |
 
 "Frontier lectures" will consist of student presentations of frontier papers related to the class topics.
 
