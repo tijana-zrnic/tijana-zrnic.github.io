@@ -74,7 +74,7 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 [5] Y. Oren, N. Meister, N. Chatterji, F. Ladhak, T. B. Hashimoto. [Proving Test Set Contamination in Black Box Language Models](https://arxiv.org/abs/2310.17623). _International Conference on Learning Representations (ICLR)_, 2024.\
 [6] O. Salaudeen, A. Reuel, A. Ahmed, S. Bedi, Z. Robertson, S. Sundar, B. Domingue, A. Wang, S. Koyejo. [Measurement to Meaning: A Validity-Centered Framework for AI Evaluation](https://arxiv.org/abs/2505.10573). 2025.\
 [7] M. Mancoridis, K. Vafa, B. Weeks, S. Mullainathan. [Potemkin Understanding in Large Language Models](https://arxiv.org/abs/2506.21521). _International Conference on Machine Learning (ICML)_, 2025.\
-[8] J. D. Gaebler, C. Isley, C. Avery, S. Goel. [Reassessing the Role of Standardized Tests in University Admissions](https://5harad.com/papers/testing-debate.pdf). _Preprint_, 2026.\
+[8] J. D. Gaebler, C. Isley, C. Avery, S. Goel. [Reassessing the Role of Standardized Tests in University Admissions](https://5harad.com/papers/testing-debate.pdf). 2026.\
 [9]  J. Quiñonero-Candela, M. Sugiyama, A. Schwaighofer, N. D. Lawrence. [Dataset Shift in Machine Learning](https://mitpress.mit.edu/9780262545877/dataset-shift-in-machine-learning/). _MIT Press_, 2008.
 
 ---
