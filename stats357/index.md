@@ -11,6 +11,7 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
+- [4/26] I posted annotated versions of all lecture slides on Canvas.
 - [4/15] Homework 2 is up! It's due on 4/29 EOD.
 - [4/8] I adjusted the class schedule. On May 11 we won't have a lecture, but we'll have extended office hours that week.
 - [4/3] We expanded enrollment. There are a handful of people still on the waitlist, but I expect everyone will be able to enroll.
@@ -56,8 +57,8 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 | 6 | Apr 15 | _Frontier lecture_ | see signup sheet |
 | 7 | Apr 20 | Distribution shift | [9, Ch. 1 & 6; 10] |
 | 8 | Apr 22 | Predictive inference; Conformal prediction | [11] |
-| 9 | Apr 27 | Predictive inference under distribution shift | TBD |
-| 10 | Apr 29 | Calibration | TBD |
+| 9 | Apr 27 | Predictive inference under distribution shift | [12; 13; 14] |
+| 10 | Apr 29 | Calibration | [15; 16; 17] |
 | 11 | May 4 | Multicalibration | TBD |
 | 12 | May 6 | _Frontier lecture_ | TBD |
 |   | May 11 | No class; Extended office hours instead |  |
@@ -79,7 +80,13 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 [8] J. D. Gaebler, C. Isley, C. Avery, S. Goel. [Reassessing the Role of Standardized Tests in University Admissions](https://5harad.com/papers/testing-debate.pdf). 2026.\
 [9]  J. Quiñonero-Candela, M. Sugiyama, A. Schwaighofer, N. D. Lawrence. [Dataset Shift in Machine Learning](https://mitpress.mit.edu/9780262545877/dataset-shift-in-machine-learning/). _MIT Press_, 2008.\
 [10] Z. Lipton, Y.-X. Wang, A. Smola. [Detecting and Correcting for Label Shift with Black Box Predictors](https://proceedings.mlr.press/v80/lipton18a.html). _International Conference on Machine Learning (ICML)_, 2018.\
-[11] A. N. Angelopoulos, S. Bates. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511). _Foundations and Trends in Machine Learning_, 2023.
+[11] A. N. Angelopoulos, S. Bates. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511). _Foundations and Trends in Machine Learning_, 2023.\
+[12] I. Gibbs, E. J. Candès. [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/pdf/2106.00170). _Advances in Neural Information Processing Systems (NeurIPS)_, 2021.\
+[13] A. N. Angelopoulos, E. J. Candès, R. J. Tibshirani. [Conformal PID Control for Time Series Prediction](https://arxiv.org/abs/2307.16895). _Advances in Neural Information Processing Systems (NeurIPS)_, 2023.\
+[14] R. F. Barber, E. J. Candès, A. Ramdas, R. J. Tibshirani. [Conformal Prediction Beyond Exchangeability](https://arxiv.org/abs/2202.13415). _Annals of Statistics_, 2023.\
+[15] C. Guo, G. Pleiss, Y. Sun, K. Q. Weinberger. [On Calibration of Modern Neural Networks](https://proceedings.mlr.press/v70/guo17a/guo17a.pdf). _International Conference on Machine Learning (ICML)_, 2017.\
+[16] A. Kumar, P. Liang, T. Ma. [Verified Uncertainty Calibration](https://proceedings.neurips.cc/paper/2019/hash/f8c0c968632845cd133308b1a494967f-Abstract.html). _Advances in Neural Information Processing Systems (NeurIPS)_, 2019.\
+[17] K. Tian, E. Mitchell, A. Zhou, A. Sharma, R. Rafailov, H. Yao, C. Finn, C. Manning. [Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://aclanthology.org/2023.emnlp-main.330/). _Conference on Empirical Methods in Natural Language Processing (EMNLP)_, 2023.
 
 ---
 
