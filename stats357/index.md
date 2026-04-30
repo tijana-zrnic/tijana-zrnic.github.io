@@ -11,6 +11,7 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
+- [4/29] Homework 3 is up! It's due on 5/13 EOD.
 - [4/26] I posted annotated versions of all lecture slides on Canvas.
 - [4/15] Homework 2 is up! It's due on 4/29 EOD.
 - [4/8] I adjusted the class schedule. On May 11 we won't have a lecture, but we'll have extended office hours that week.
