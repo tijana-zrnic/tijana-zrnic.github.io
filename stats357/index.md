@@ -72,8 +72,8 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 "Frontier lectures" will consist of student presentations of frontier papers related to the class topics.
 
 [1] M. Hardt. [The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org). _https://mlbenchmarks.org_, 2025.\
-[2] S. Bates, T. Hasie, R. Tibshirani. [Cross-Validation: What Does It Estimate and How Well Does It Do It?](https://arxiv.org/abs/2104.00673) _Journal of the American Statistical Association_, 2024.\
-[3] S. Wager. [Cross-Validation, Risk Estimation, and Model Selection: Comment on a Paper by Rosset and Tibshirani](https://arxiv.org/abs/1909.11696). _Journal of the American Statistical Association_, 2020.\
+[2] S. Bates, T. Hasie, R. Tibshirani. [Cross-Validation: What Does It Estimate and How Well Does It Do It?](https://arxiv.org/abs/2104.00673) _Journal of the American Statistical Association (JASA)_, 2024.\
+[3] S. Wager. [Cross-Validation, Risk Estimation, and Model Selection: Comment on a Paper by Rosset and Tibshirani](https://arxiv.org/abs/1909.11696). _Journal of the American Statistical Association (JASA)_, 2020.\
 [4] L. Gao, J. Schulman, J. Hilton. [Scaling Laws for Reward Model Overoptimization](https://proceedings.mlr.press/v202/gao23h). _International Conference on Machine Learning (ICML)_, 2023.\
 [5] Y. Oren, N. Meister, N. Chatterji, F. Ladhak, T. B. Hashimoto. [Proving Test Set Contamination in Black Box Language Models](https://arxiv.org/abs/2310.17623). _International Conference on Learning Representations (ICLR)_, 2024.\
 [6] O. Salaudeen, A. Reuel, A. Ahmed, S. Bedi, Z. Robertson, S. Sundar, B. Domingue, A. Wang, S. Koyejo. [Measurement to Meaning: A Validity-Centered Framework for AI Evaluation](https://arxiv.org/abs/2505.10573). 2025.\
