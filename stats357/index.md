@@ -92,7 +92,7 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 [19] M. Kim, A. Ghorbani, J. Zou. [Multiaccuracy: Black-Box Post-Processing for Fairness in Classification](https://dl.acm.org/doi/abs/10.1145/3306618.3314287). _AAAI/ACM Conference on AI, Ethics, and Society (AIES)_, 2019.\
 [20] I. Gibbs, J. J. Cherian, E. J. Candès. [Conformal Prediction with Conditional Guarantees](https://academic.oup.com/jrsssb/article/87/4/1100/8058684?guestAccessKey=). _Journal of the Royal Statistical Society: Series B (JRSSB)_, 2025.\
 [21] A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic. [Prediction-Powered Inference](https://www.science.org/doi/full/10.1126/science.adi6000). _Science_, 2023.\
-[22] A. N. Angelopoulos, J. C. Duchi, T. Zrnic. [PPI++: Efficient Prediction-Powered Inference](https://arxiv.org/abs/2311.01453). 2025.
+[22] A. N. Angelopoulos, J. C. Duchi, T. Zrnic. [PPI++: Efficient Prediction-Powered Inference](https://arxiv.org/abs/2311.01453). 2023.
 
 ---
 
