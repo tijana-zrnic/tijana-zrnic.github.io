@@ -60,10 +60,10 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 | 8 | Apr 22 | Predictive inference; Conformal prediction | [11] |
 | 9 | Apr 27 | Predictive inference under distribution shift | [12; 13; 14] |
 | 10 | Apr 29 | Calibration | [15; 16; 17] |
-| 11 | May 4 | Multicalibration | TBD |
-| 12 | May 6 | _Frontier lecture_ | TBD |
+| 11 | May 4 | Multicalibration; Multiaccuracy | [18; 19; 20] |
+| 12 | May 6 | _Frontier lecture_ | see signup sheet |
 |   | May 11 | No class; Extended office hours instead |  |
-| 13 | May 13 | AI for science; Prediction-powered inference (PPI) | TBD |
+| 13 | May 13 | AI for science; Prediction-powered inference (PPI) | [21; 22] |
 | 14 | May 28 | AI-assisted annotation | TBD |
 | 15 | May 20 | Data attribution | TBD |
 |   | May 25 | Memorial Day (no class) |   |
@@ -87,7 +87,12 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 [14] R. F. Barber, E. J. Candès, A. Ramdas, R. J. Tibshirani. [Conformal Prediction Beyond Exchangeability](https://arxiv.org/abs/2202.13415). _Annals of Statistics_, 2023.\
 [15] C. Guo, G. Pleiss, Y. Sun, K. Q. Weinberger. [On Calibration of Modern Neural Networks](https://proceedings.mlr.press/v70/guo17a/guo17a.pdf). _International Conference on Machine Learning (ICML)_, 2017.\
 [16] A. Kumar, P. Liang, T. Ma. [Verified Uncertainty Calibration](https://proceedings.neurips.cc/paper/2019/hash/f8c0c968632845cd133308b1a494967f-Abstract.html). _Advances in Neural Information Processing Systems (NeurIPS)_, 2019.\
-[17] K. Tian, E. Mitchell, A. Zhou, A. Sharma, R. Rafailov, H. Yao, C. Finn, C. Manning. [Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://aclanthology.org/2023.emnlp-main.330/). _Conference on Empirical Methods in Natural Language Processing (EMNLP)_, 2023.
+[17] K. Tian, E. Mitchell, A. Zhou, A. Sharma, R. Rafailov, H. Yao, C. Finn, C. Manning. [Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://aclanthology.org/2023.emnlp-main.330/). _Conference on Empirical Methods in Natural Language Processing (EMNLP)_, 2023.\
+[18] U. Hebert-Johnson, M. Kim, O. Reingold, G. Rothblum. [Multicalibration: Calibration for the (Computationally-Identifiable) Masses](https://proceedings.mlr.press/v80/hebert-johnson18a.html?ref=https://githubhelp.com). _International Conference on Machine Learning (ICML)_, 2018.\
+[19] M. Kim, A. Ghorbani, J. Zou. [Multiaccuracy: Black-Box Post-Processing for Fairness in Classification](https://dl.acm.org/doi/abs/10.1145/3306618.3314287). _AAAI/ACM Conference on AI, Ethics, and Society (AIES)_, 2019.
+[20] I. Gibbs, J. J. Cherian, E. J. Candès. [Conformal Prediction with Conditional Guarantees](https://academic.oup.com/jrsssb/article/87/4/1100/8058684?guestAccessKey=). _Journal of the Royal Statistical Society: Series B (JRSSB)_, 2025.
+[21] A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic. [Prediction-Powered Inference](https://www.science.org/doi/full/10.1126/science.adi6000). _Science_, 2023.
+[22] A. N. Angelopoulos, J. C. Duchi, T. Zrnic. [PPI++: Efficient Prediction-Powered Inference](https://arxiv.org/abs/2311.01453). 2025.
 
 ---
 
