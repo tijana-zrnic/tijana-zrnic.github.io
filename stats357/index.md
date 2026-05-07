@@ -11,12 +11,12 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
-- [5/7] Please send me your brief project descriptions by Fri, May 8 (see Ed for details).
-- [5/7] No lecture on Monday, May 11. I'll have extra office hours (see Ed for details).
+- [5/7] Please send me your brief project descriptions by Fri, 5/8 (see Ed for details).
+- [5/7] No lecture on Monday, 5/11. I'll have extra office hours (see Ed for details).
 - [4/29] Homework 3 is up! It's due on 5/13 EOD.
 - [4/26] I posted annotated versions of all lecture slides on Canvas.
 - [4/15] Homework 2 is up! It's due on 4/29 EOD.
-- [4/8] I adjusted the class schedule. On May 11 we won't have a lecture, but we'll have extended office hours that week.
+- [4/8] I adjusted the class schedule. On 5/11 we won't have a lecture, but we'll have extended office hours that week.
 - [4/3] We expanded enrollment. There are a handful of people still on the waitlist, but I expect everyone will be able to enroll.
 - [4/1] Homework 1 is up! It's due on 4/15 EOD.
 - [3/31] Slides for lectures 1 & 2 have been posted on Canvas.
