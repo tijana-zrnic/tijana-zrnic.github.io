@@ -66,7 +66,7 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 | 12 | May 6 | _Frontier lecture_ | see signup sheet |
 |   | May 11 | No class; Extended office hours instead |  |
 | 13 | May 13 | AI for science; Prediction-powered inference (PPI) | [21; 22] |
-| 14 | May 28 | AI-assisted annotation | TBD |
+| 14 | May 18 | AI-assisted annotation | TBD |
 | 15 | May 20 | Data attribution | TBD |
 |   | May 25 | Memorial Day (no class) |   |
 | 16 | May 27 | _Frontier lecture_ | TBD |
