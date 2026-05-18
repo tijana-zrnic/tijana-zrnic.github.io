@@ -67,7 +67,7 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 | 12 | May 6 | _Frontier lecture_ | see signup sheet |
 |   | May 11 | No class; Extended office hours instead |  |
 | 13 | May 13 | AI for science; Prediction-powered inference (PPI) | [21; 22; 23] |
-| 14 | May 18 | AI-assisted annotation | TBD |
+| 14 | May 18 | AI-assisted annotation | [24; 25] |
 | 15 | May 20 | Data attribution | TBD |
 |   | May 25 | Memorial Day (no class) |   |
 | 16 | May 27 | _Frontier lecture_ | TBD |
@@ -96,7 +96,9 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 [20] I. Gibbs, J. J. Cherian, E. J. Candès. [Conformal Prediction with Conditional Guarantees](https://academic.oup.com/jrsssb/article/87/4/1100/8058684?guestAccessKey=). _Journal of the Royal Statistical Society: Series B (JRSSB)_, 2025.\
 [21] A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic. [Prediction-Powered Inference](https://www.science.org/doi/full/10.1126/science.adi6000). _Science_, 2023.\
 [22] A. N. Angelopoulos, J. C. Duchi, T. Zrnic. [PPI++: Efficient Prediction-Powered Inference](https://arxiv.org/abs/2311.01453). 2023.\
-[23] T. Zrnic, E. J. Candès. [Cross-Prediction-Powered Inference](https://www.pnas.org/doi/abs/10.1073/pnas.2322083121). _Proceedings of the National Academy of Sciences (PNAS)_, 2024.
+[23] T. Zrnic, E. J. Candès. [Cross-Prediction-Powered Inference](https://www.pnas.org/doi/abs/10.1073/pnas.2322083121). _Proceedings of the National Academy of Sciences (PNAS)_, 2024.\
+[24] A. P. Dawid, A. M. Skene. [Maximum Likelihood Estimation of Observer Error‐Rates Using the EM Algorithm](https://rss.onlinelibrary.wiley.com/doi/abs/10.2307/2346806). Journal of the Royal Statistical Society: Series C (JRSSC), 1979.\
+[25] E. J. Candès, A. Ilyas, T. Zrnic. [Probably Approximately Correct Labels](https://arxiv.org/abs/2506.10908). _International Conference on Machine Learning (ICML)_, 2026.
 
 ---
 
