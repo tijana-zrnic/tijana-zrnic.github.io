@@ -11,6 +11,7 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
+- [5/18] Reese's office hours until the end of the quarter will be on Wed, 5pm-6pm, in Sequoia 235.
 - [5/13] Homework 4 is up! It's due 5/27 EOD.
 - [5/7] Please send me your brief project descriptions by Fri, 5/8 (see Ed for details).
 - [5/7] No lecture on Monday, 5/11. I'll have extra office hours (see Ed for details).
