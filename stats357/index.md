@@ -11,6 +11,7 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
+- [5/21] No class on Monday, 5/25, because of Memorial Day!
 - [5/18] Reese's office hours until the end of the quarter will be on Wed, 5pm-6pm, in Sequoia 235.
 - [5/13] Homework 4 is up! It's due 5/27 EOD.
 - [5/7] Please send me your brief project descriptions by Fri, 5/8 (see Ed for details).
@@ -69,9 +70,9 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 |   | May 11 | No class; Extended office hours instead |  |
 | 13 | May 13 | AI for science; Prediction-powered inference (PPI) | [21; 22; 23] |
 | 14 | May 18 | AI-assisted annotation | [24; 25] |
-| 15 | May 20 | Data attribution | TBD |
+| 15 | May 20 | Data attribution | [26; 27] |
 |   | May 25 | Memorial Day (no class) |   |
-| 16 | May 27 | _Frontier lecture_ | TBD |
+| 16 | May 27 | _Frontier lecture_ | see signup sheet |
 
 "Frontier lectures" will consist of student presentations of frontier papers related to the class topics.
 
@@ -99,7 +100,9 @@ Prerequisites include mathematical maturity in probability, statistics, and opti
 [22] A. N. Angelopoulos, J. C. Duchi, T. Zrnic. [PPI++: Efficient Prediction-Powered Inference](https://arxiv.org/abs/2311.01453). 2023.\
 [23] T. Zrnic, E. J. Candès. [Cross-Prediction-Powered Inference](https://www.pnas.org/doi/abs/10.1073/pnas.2322083121). _Proceedings of the National Academy of Sciences (PNAS)_, 2024.\
 [24] A. P. Dawid, A. M. Skene. [Maximum Likelihood Estimation of Observer Error‐Rates Using the EM Algorithm](https://rss.onlinelibrary.wiley.com/doi/abs/10.2307/2346806). Journal of the Royal Statistical Society: Series C (JRSSC), 1979.\
-[25] E. J. Candès, A. Ilyas, T. Zrnic. [Probably Approximately Correct Labels](https://arxiv.org/abs/2506.10908). _International Conference on Machine Learning (ICML)_, 2026.
+[25] E. J. Candès, A. Ilyas, T. Zrnic. [Probably Approximately Correct Labels](https://arxiv.org/abs/2506.10908). _International Conference on Machine Learning (ICML)_, 2026.\
+[26] P. W. Koh, P. Liang. [Understanding Black-box Predictions via Influence Functions](https://proceedings.mlr.press/v70/koh17a?ref=https://githubhelp.com). _International Conference on Machine Learning (ICML)_, 2017.\
+[27] A. Ilyas, S. M. Park, L. Engstrom, G. Leclerc, A. Madry. [Datamodels: Predicting Predictions from Training Data](https://arxiv.org/abs/2202.00622). _International Conference on Machine Learning (ICML)_, 2022.
 
 ---
 
