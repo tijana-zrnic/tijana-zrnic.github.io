@@ -11,6 +11,7 @@ Tijana Zrnic, Stanford University, Spring 2026
 
 ## Announcements
 
+- [5/28] Please sign up for a final project presentation slot on 6/5 or 6/9.
 - [5/21] No class on Monday, 5/25, because of Memorial Day!
 - [5/18] Reese's office hours until the end of the quarter will be on Wed, 5pm-6pm, in Sequoia 235.
 - [5/13] Homework 4 is up! It's due 5/27 EOD.
