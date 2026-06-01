@@ -70,7 +70,7 @@ _Proceedings of the National Academy of Sciences (PNAS) 2024_ [PNAS](https://pna
 
 _PPI++: Efficient Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, J. C. Duchi, T. Zrnic\
-_Preprint_ [arxiv](https://arxiv.org/abs/2311.01453) [code](https://github.com/aangelopoulos/ppi_py/tree/ppi++) [package](https://github.com/aangelopoulos/ppi_py)
+_Annals of Applied Statistics (AoAS) 2026+_ [arxiv](https://arxiv.org/abs/2311.01453) [code](https://github.com/aangelopoulos/ppi_py/tree/ppi++) [package](https://github.com/aangelopoulos/ppi_py)
 
 _Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
