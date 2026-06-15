@@ -20,17 +20,25 @@ office: E248 CoDa
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
 
+_Valid Inference with Synthetic Data via Task Exchangeability_\
+L. Tan, T. Zrnic\
+_Preprint_ [arxiv](https://arxiv.org/html/2606.13629)
+
+_Partially Performative Prediction_\
+J. Lee, T. Zrnic\
+_Preprint_ [arxiv](https://arxiv.org/abs/2606.07890)
+
 _Probably Approximately Correct Labels_\
 (α-β) E. J. Candès, A. Ilyas, T. Zrnic\
 _International Conference on Machine Learning (ICML) 2026_ [arxiv](https://arxiv.org/abs/2506.10908) [code](https://github.com/tijana-zrnic/pac-labels/) [talk](https://www.youtube.com/watch?v=1C0iyjLm8Qk)
 
 _Robust Sampling for Active Statistical Inference_\
 P. Li, T. Zrnic, E. J. Candès\
-_Conference on Neural Information Processing Systems (NeurIPS) 2025_ [arxiv](https://arxiv.org/abs/2511.08991) 
+_Conference on Neural Information Processing Systems (NeurIPS) 2025_ [NeurIPS](https://papers.nips.cc/paper_files/paper/2025/hash/6389470564214983604d1ac81631c2c5-Abstract-Conference.html) [arxiv](https://arxiv.org/abs/2511.08991) 
 
 _Look-Ahead Reasoning on Learning Platforms_\
 H. Zhu, T. Zrnic, C. Mendler-Dünner\
-_Conference on Neural Information Processing Systems (NeurIPS) 2025_ [arxiv](https://arxiv.org/abs/2511.14745) 
+_Conference on Neural Information Processing Systems (NeurIPS) 2025_ [NeurIPS](https://papers.nips.cc/paper_files/paper/2025/hash/7684402c4f75fc52d60df4342c4d67b1-Abstract-Conference.html) [arxiv](https://arxiv.org/abs/2511.14745) 
 
 _Can Unconfident LLM Annotations Be Used for Confident Conclusions?_\
 K. Gligorić\*, T. Zrnic\*, C. Lee\*, E. J. Candès, D. Jurafsky\
