@@ -2,14 +2,14 @@
 layout: default
 ---
 
-I am an Assistant Professor at Stanford University, jointly appointed in Statistics, Management Science & Engineering, and, by courtesy, Computer Science.
+I am an Assistant Professor at Stanford University, jointly appointed in Statistics, Management Science & Engineering, and, by courtesy, Computer Science. I am also a Member of Technical Staff at Arena.
 
 My work develops foundations for reliable, valid, and trustworthy data-driven conclusions, especially in contexts involving AI. Example topics of interest include [_prediction-powered inference_](https://www.science.org/doi/full/10.1126/science.adi6000), [_active statistical inference_](https://proceedings.mlr.press/v235/zrnic24a.html), [_performative prediction_](http://proceedings.mlr.press/v119/perdomo20a.html), and _studying_ [_selection bias_](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-6/A-flexible-defense-against-the-winners-curse/10.1214/25-AOS2553.short).
 
-Until recently I took an academic hiatus to work on AI evaluation as a Member of Technical Staff at Arena. Before that, I was a Ram and Vijay Shriram Postdoctoral Fellow at Stanford University, affiliated with Stanford Data Science.
+Previously I was a Ram and Vijay Shriram Postdoctoral Fellow at Stanford University, affiliated with Stanford Data Science.
 I obtained my PhD in Electrical Engineering and Computer Sciences from UC Berkeley in 2023. 
 
-In Spring 2026 I am teaching [Reliability and Validity in Artificial Intelligence](https://tijana-zrnic.github.io/stats357/).
+In Spring 2026 I taught [Reliability and Validity in Artificial Intelligence](https://tijana-zrnic.github.io/stats357/).
 
 ## Contact
 
