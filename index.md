@@ -22,7 +22,7 @@ office: E248 CoDa
 
 _Valid Inference with Synthetic Data via Task Exchangeability_\
 L. Tan, T. Zrnic\
-_Preprint_ [arxiv](https://arxiv.org/html/2606.13629)
+_Preprint_ [arxiv](https://arxiv.org/abs/2606.13629v1)
 
 _Partially Performative Prediction_\
 J. Lee, T. Zrnic\
