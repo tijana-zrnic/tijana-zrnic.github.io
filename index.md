@@ -32,6 +32,10 @@ _Probably Approximately Correct Labels_\
 (α-β) E. J. Candès, A. Ilyas, T. Zrnic\
 _International Conference on Machine Learning (ICML) 2026_ [arxiv](https://arxiv.org/abs/2506.10908) [code](https://github.com/tijana-zrnic/pac-labels/) [talk](https://www.youtube.com/watch?v=1C0iyjLm8Qk)
 
+_Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI_\
+(α-β) W. Ji, L. Lei, T. Zrnic\
+_Biometrika 2026_ [Biometrika](https://doi.org/10.1093/biomet/asag053) [arxiv](https://arxiv.org/abs/2501.09731)
+
 _Robust Sampling for Active Statistical Inference_\
 P. Li, T. Zrnic, E. J. Candès\
 _Conference on Neural Information Processing Systems (NeurIPS) 2025_ [NeurIPS](https://papers.nips.cc/paper_files/paper/2025/hash/6389470564214983604d1ac81631c2c5-Abstract-Conference.html) [arxiv](https://arxiv.org/abs/2511.08991) 
@@ -47,10 +51,6 @@ _Conference of the Nations of the Americas Chapter of the Association for Comput
 _Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling_\
 D. M. Kluger, K. Lu, T. Zrnic, S. Wang, S. Bates\
 _Preprint_ [arxiv](https://arxiv.org/abs/2501.18577)
-
-_Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI_\
-(α-β) W. Ji, L. Lei, T. Zrnic\
-_Preprint_ [arxiv](https://arxiv.org/abs/2501.09731)
 
 _A Flexible Defense Against the Winner's Curse_\
 T. Zrnic, W. Fithian\
