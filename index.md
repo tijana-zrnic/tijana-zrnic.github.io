@@ -26,7 +26,7 @@ _Preprint_ [arxiv](https://arxiv.org/abs/2606.13629)
 
 _Partially Performative Prediction_\
 J. Lee, T. Zrnic\
-_Preprint_ [arxiv](https://arxiv.org/abs/2606.07890)
+_Conference on Neural Information Processing Systems (NeurIPS) 2026_ [arxiv](https://arxiv.org/abs/2606.07890)
 
 _Probably Approximately Correct Labels_\
 (α-β) E. J. Candès, A. Ilyas, T. Zrnic\
@@ -78,7 +78,7 @@ _Proceedings of the National Academy of Sciences (PNAS) 2024_ [PNAS](https://pna
 
 _PPI++: Efficient Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, J. C. Duchi, T. Zrnic\
-_Annals of Applied Statistics (AoAS) 2026+_ [arxiv](https://arxiv.org/abs/2311.01453) [code](https://github.com/aangelopoulos/ppi_py/tree/ppi++) [package](https://github.com/aangelopoulos/ppi_py)
+_Annals of Applied Statistics (AoAS) 2026_ [AoAS](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-20/issue-3/PPI-Efficient-prediction-powered-inference/10.1214/26-AOAS2215.full) [arxiv](https://arxiv.org/abs/2311.01453) [code](https://github.com/aangelopoulos/ppi_py/tree/ppi++) [package](https://github.com/aangelopoulos/ppi_py)
 
 _Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
