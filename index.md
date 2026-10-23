@@ -20,6 +20,14 @@ office: E248 CoDa
 
 (* denotes equal contribution, α-β denotes alphabetical ordering)
 
+_Reliable AI-Assisted Decisions via Selective Auditing_\
+(α-β) I. Gibbs, E. L. Han, R. J. Tibshirani, T. Zrnic\
+_Preprint_ [arxiv](https://arxiv.org/abs/2610.31662)
+
+_High-Value Training Data from Noisy, Diverse Sources_\
+H. Driss\*, E. Frick\*, A. N. Angelopoulos, C.-J. Hsieh, Y. Huh, T. Zrnic, A. Ilyas\
+_Preprint_ [arxiv](https://arxiv.org/abs/2610.30421)
+
 _Valid Inference with Synthetic Data via Task Exchangeability_\
 L. Tan, T. Zrnic\
 _Preprint_ [arxiv](https://arxiv.org/abs/2606.13629)
