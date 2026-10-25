@@ -40,9 +40,17 @@ _Probably Approximately Correct Labels_\
 (α-β) E. J. Candès, A. Ilyas, T. Zrnic\
 _International Conference on Machine Learning (ICML) 2026_ [arxiv](https://arxiv.org/abs/2506.10908) [code](https://github.com/tijana-zrnic/pac-labels/) [talk](https://www.youtube.com/watch?v=1C0iyjLm8Qk)
 
+_Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling_\
+D. M. Kluger, K. Lu, T. Zrnic, S. Wang, S. Bates\
+_Statistical Science 2026+_ [arxiv](https://arxiv.org/abs/2501.18577)
+
 _Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI_\
 (α-β) W. Ji, L. Lei, T. Zrnic\
 _Biometrika 2026_ [Biometrika](https://doi.org/10.1093/biomet/asag053) [arxiv](https://arxiv.org/abs/2501.09731)
+
+_PPI++: Efficient Prediction-Powered Inference_\
+(α-β) A. N. Angelopoulos, J. C. Duchi, T. Zrnic\
+_Annals of Applied Statistics (AoAS) 2026_ [AoAS](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-20/issue-3/PPI-Efficient-prediction-powered-inference/10.1214/26-AOAS2215.full) [arxiv](https://arxiv.org/abs/2311.01453) [code](https://github.com/aangelopoulos/ppi_py/tree/ppi++) [package](https://github.com/aangelopoulos/ppi_py)
 
 _Robust Sampling for Active Statistical Inference_\
 P. Li, T. Zrnic, E. J. Candès\
@@ -55,10 +63,6 @@ _Conference on Neural Information Processing Systems (NeurIPS) 2025_ [NeurIPS](h
 _Can Unconfident LLM Annotations Be Used for Confident Conclusions?_\
 K. Gligorić\*, T. Zrnic\*, C. Lee\*, E. J. Candès, D. Jurafsky\
 _Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) 2025_ [NAACL](https://aclanthology.org/2025.naacl-long.179/) [arxiv](https://arxiv.org/abs/2408.15204) [tutorial](https://github.com/kristinagligoric/cdi-tutorial)
-
-_Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling_\
-D. M. Kluger, K. Lu, T. Zrnic, S. Wang, S. Bates\
-_Preprint_ [arxiv](https://arxiv.org/abs/2501.18577)
 
 _A Flexible Defense Against the Winner's Curse_\
 T. Zrnic, W. Fithian\
@@ -84,9 +88,9 @@ _Cross-Prediction-Powered Inference_\
 T. Zrnic, E. J. Candès\
 _Proceedings of the National Academy of Sciences (PNAS) 2024_ [PNAS](https://pnas.org/doi/10.1073/pnas.2322083121) [arxiv](http://arxiv.org/abs/2309.16598) [code](https://github.com/tijana-zrnic/cross-ppi) [package](https://github.com/aangelopoulos/ppi_py)
 
-_PPI++: Efficient Prediction-Powered Inference_\
-(α-β) A. N. Angelopoulos, J. C. Duchi, T. Zrnic\
-_Annals of Applied Statistics (AoAS) 2026_ [AoAS](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-20/issue-3/PPI-Efficient-prediction-powered-inference/10.1214/26-AOAS2215.full) [arxiv](https://arxiv.org/abs/2311.01453) [code](https://github.com/aangelopoulos/ppi_py/tree/ppi++) [package](https://github.com/aangelopoulos/ppi_py)
+_Valid Inference After Causal Discovery_\
+P. Gradu\*, T. Zrnic\*, Y. Wang, M. I. Jordan\
+_Journal of the American Statistical Association (JASA) 2024_ [JASA](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402089?casa_token=PTwHI6WrH_wAAAAA%3AEoAbGG96UY9oFrxsGSTQsqIEteAxNnImqzk4-ah_dqOODwxTJEfvz242m6aoSo5MaTtmkp14jAs) [arxiv](https://arxiv.org/abs/2208.05949)
 
 _Prediction-Powered Inference_\
 (α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
@@ -99,10 +103,6 @@ _Annals of Statistics (AoS) 2023_ [AoS](https://projecteuclid.org/journals/annal
 _Algorithmic Collective Action in Machine Learning_\
 (α-β) M. Hardt, E. Mazumdar, C. Mendler-Dünner, T. Zrnic\
 _International Conference on Machine Learning (ICML) 2023_ [ICML](https://proceedings.mlr.press/v202/hardt23a.html) [arxiv](http://arxiv.org/abs/2302.04262) [talk](https://www.youtube.com/watch?v=E9aa6BrrJvA)
-
-_Valid Inference After Causal Discovery_\
-P. Gradu\*, T. Zrnic\*, Y. Wang, M. I. Jordan\
-_Journal of the American Statistical Association (JASA) 2024_ [JASA](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402089?casa_token=PTwHI6WrH_wAAAAA%3AEoAbGG96UY9oFrxsGSTQsqIEteAxNnImqzk4-ah_dqOODwxTJEfvz242m6aoSo5MaTtmkp14jAs) [arxiv](https://arxiv.org/abs/2208.05949)
 
 _A Note on Zeroth-Order Optimization on the Simplex_\
 T. Zrnic, E. Mazumdar\
