@@ -11,6 +11,8 @@ I obtained my PhD in Electrical Engineering and Computer Sciences from UC Berkel
 
 In Spring 2026 I taught [Reliability and Validity in Artificial Intelligence](https://tijana-zrnic.github.io/stats357/).
 
+**We are looking for a postdoc to work on AI oversight!** Please see details and apply [here](https://aioversight.stanford.edu).
+
 ## Contact
 
 email:  "firstname"."lastname"@stanford.edu\
